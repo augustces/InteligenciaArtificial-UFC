@@ -1,0 +1,18 @@
+Para executar o código, informe a entrada no arquivo "entrada.txt" no formato especificado no enunciado do trabalho;
+
+Execute o arquivo "trabalho.py" e verifique os arquivos "variacao1.txt" e "variacao2.txt".
+
+O arquivo "variacao1.txt" é referente ao resultado usando o algoritmo de Kruskal usando a cidade de partida na estimativa.
+Já o arquivo "variacao2.txt" é referente ao resultado usando a variação do algoritmo de Kruskal, sem a cidade de partida na estimativa.
+
+A saída de cada arquivo está separada por alguns blocos, o primeiro é referente a qual a cidade inicial, após ele começa as interações.
+Cada bloco apresenta qual a interação que está sendo rodada, qual a cidade que está sendo visitada, qual o circuito atual,
+qual o valor da função g para aquele circuito temporario, qual o valor da função h para aquela cidade visitada, tendo em visita
+que as cidades do circuito não irão se repetir no cálculo da função h, pois é necessário percorrer todos as cidades.
+Além desses valores, é impresso o valor da função f, que é a soma dos valores da função g e h. 
+Após todos os blocos referentes a cidade inicial informada no início, é impresso qual o circuito de menor custo dada àquela cidade inicial.
+esse processo se repete a cada cidade inicial que será testada no código.
+
+Observação: Os arquivos "saida.txt" e "saida2.txt" são referentes a primeira questão do trabalho, em que o "saida.txt" guarda os resultados
+obtidos usando a "entrada.txt" com 7 cidades de entrada. Já o arquivo "saida2.txt" guarda os resultados obtidos usando como entrada 12 
+cidades, especificadas no arquivo "entrada2.txt".

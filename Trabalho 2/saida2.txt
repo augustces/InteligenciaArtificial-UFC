@@ -1,0 +1,5137 @@
+Cidade inicial - cidade 0
+----------------------------------------------------------
+interacao 0 
+Cidade visitada: 1 
+Circuito atual: [0] 
+Funcao g: 4.024922359499621 
+Funcao h: 34.39658931935887
+Funcao f (g + h): 38.42151167885849 
+----------------------------------------------------------
+interacao 1 
+Cidade visitada: 2 
+Circuito atual: [0] 
+Funcao g: 4.024922359499621 
+Funcao h: 39.39942614884065
+Funcao f (g + h): 43.424348508340266 
+----------------------------------------------------------
+interacao 2 
+Cidade visitada: 3 
+Circuito atual: [0] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.41035229654674
+Funcao f (g + h): 41.43527465604636 
+----------------------------------------------------------
+interacao 3 
+Cidade visitada: 4 
+Circuito atual: [0] 
+Funcao g: 4.024922359499621 
+Funcao h: 32.649988846280735
+Funcao f (g + h): 36.674911205780354 
+----------------------------------------------------------
+interacao 4 
+Cidade visitada: 5 
+Circuito atual: [0] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.90750808407182
+Funcao f (g + h): 41.93243044357144 
+----------------------------------------------------------
+interacao 5 
+Cidade visitada: 6 
+Circuito atual: [0] 
+Funcao g: 4.024922359499621 
+Funcao h: 41.46449770603709
+Funcao f (g + h): 45.48942006553671 
+----------------------------------------------------------
+interacao 6 
+Cidade visitada: 7 
+Circuito atual: [0] 
+Funcao g: 4.024922359499621 
+Funcao h: 36.19126219059057
+Funcao f (g + h): 40.21618455009019 
+----------------------------------------------------------
+interacao 7 
+Cidade visitada: 8 
+Circuito atual: [0] 
+Funcao g: 4.024922359499621 
+Funcao h: 38.041901789838306
+Funcao f (g + h): 42.066824149337926 
+----------------------------------------------------------
+interacao 8 
+Cidade visitada: 9 
+Circuito atual: [0] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.98383192670829
+Funcao f (g + h): 42.00875428620791 
+----------------------------------------------------------
+interacao 9 
+Cidade visitada: 10 
+Circuito atual: [0] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.06764740087908
+Funcao f (g + h): 41.0925697603787 
+----------------------------------------------------------
+interacao 10 
+Cidade visitada: 11 
+Circuito atual: [0] 
+Funcao g: 4.024922359499621 
+Funcao h: 39.42295232511807
+Funcao f (g + h): 43.44787468461769 
+----------------------------------------------------------
+interacao 11 
+Cidade visitada: 1 
+Circuito atual: [0, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 32.491137302825635
+Funcao f (g + h): 43.897793875909485 
+----------------------------------------------------------
+interacao 12 
+Cidade visitada: 2 
+Circuito atual: [0, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 38.206145170066904
+Funcao f (g + h): 49.612801743150754 
+----------------------------------------------------------
+interacao 13 
+Cidade visitada: 3 
+Circuito atual: [0, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 36.217071317773
+Funcao f (g + h): 47.62372789085685 
+----------------------------------------------------------
+interacao 14 
+Cidade visitada: 5 
+Circuito atual: [0, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 36.00205606753859
+Funcao f (g + h): 47.40871264062244 
+----------------------------------------------------------
+interacao 15 
+Cidade visitada: 6 
+Circuito atual: [0, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 38.7265957794386
+Funcao f (g + h): 50.13325235252245 
+----------------------------------------------------------
+interacao 16 
+Cidade visitada: 7 
+Circuito atual: [0, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 34.28581017405734
+Funcao f (g + h): 45.69246674714119 
+----------------------------------------------------------
+interacao 17 
+Cidade visitada: 8 
+Circuito atual: [0, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.665045522152813
+Funcao f (g + h): 42.07170209523666 
+----------------------------------------------------------
+interacao 18 
+Cidade visitada: 9 
+Circuito atual: [0, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 36.07837991017506
+Funcao f (g + h): 47.48503648325891 
+----------------------------------------------------------
+interacao 19 
+Cidade visitada: 10 
+Circuito atual: [0, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 35.16219538434585
+Funcao f (g + h): 46.5688519574297 
+----------------------------------------------------------
+interacao 20 
+Cidade visitada: 11 
+Circuito atual: [0, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 37.517500308584836
+Funcao f (g + h): 48.92415688166869 
+----------------------------------------------------------
+interacao 21 
+Cidade visitada: 1 
+Circuito atual: [0, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.16348837105955
+Funcao f (g + h): 43.49076131744545 
+----------------------------------------------------------
+interacao 22 
+Cidade visitada: 2 
+Circuito atual: [0, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 31.5042146002588
+Funcao f (g + h): 45.831487546644695 
+----------------------------------------------------------
+interacao 23 
+Cidade visitada: 3 
+Circuito atual: [0, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 34.7423999328889
+Funcao f (g + h): 49.0696728792748 
+----------------------------------------------------------
+interacao 24 
+Cidade visitada: 5 
+Circuito atual: [0, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.920813133111523
+Funcao f (g + h): 44.24808607949742 
+----------------------------------------------------------
+interacao 25 
+Cidade visitada: 6 
+Circuito atual: [0, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 32.52265103759965
+Funcao f (g + h): 46.84992398398555 
+----------------------------------------------------------
+interacao 26 
+Cidade visitada: 7 
+Circuito atual: [0, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.558954727011553
+Funcao f (g + h): 43.88622767339745 
+----------------------------------------------------------
+interacao 27 
+Cidade visitada: 9 
+Circuito atual: [0, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.997136975747992
+Funcao f (g + h): 44.32440992213389 
+----------------------------------------------------------
+interacao 28 
+Cidade visitada: 10 
+Circuito atual: [0, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.435339937300064
+Funcao f (g + h): 44.76261288368596 
+----------------------------------------------------------
+interacao 29 
+Cidade visitada: 11 
+Circuito atual: [0, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.009750986428127
+Funcao f (g + h): 43.33702393281402 
+----------------------------------------------------------
+interacao 30 
+Cidade visitada: 1 
+Circuito atual: [0, 4, 8, 11] 
+Funcao g: 21.948952551302387 
+Funcao h: 26.501763745631234
+Funcao f (g + h): 48.45071629693362 
+----------------------------------------------------------
+interacao 31 
+Cidade visitada: 2 
+Circuito atual: [0, 4, 8, 11] 
+Funcao g: 21.948952551302387 
+Funcao h: 31.40221204277001
+Funcao f (g + h): 53.3511645940724 
+----------------------------------------------------------
+interacao 32 
+Cidade visitada: 3 
+Circuito atual: [0, 4, 8, 11] 
+Funcao g: 21.948952551302387 
+Funcao h: 32.37683773645834
+Funcao f (g + h): 54.325790287760725 
+----------------------------------------------------------
+interacao 33 
+Cidade visitada: 5 
+Circuito atual: [0, 4, 8, 11] 
+Funcao g: 21.948952551302387 
+Funcao h: 29.32082474765358
+Funcao f (g + h): 51.26977729895597 
+----------------------------------------------------------
+interacao 34 
+Cidade visitada: 6 
+Circuito atual: [0, 4, 8, 11] 
+Funcao g: 21.948952551302387 
+Funcao h: 31.92266265214171
+Funcao f (g + h): 53.871615203444094 
+----------------------------------------------------------
+interacao 35 
+Cidade visitada: 7 
+Circuito atual: [0, 4, 8, 11] 
+Funcao g: 21.948952551302387 
+Funcao h: 27.60457885417233
+Funcao f (g + h): 49.553531405474715 
+----------------------------------------------------------
+interacao 36 
+Cidade visitada: 9 
+Circuito atual: [0, 4, 8, 11] 
+Funcao g: 21.948952551302387 
+Funcao h: 29.397148590290044
+Funcao f (g + h): 51.34610114159243 
+----------------------------------------------------------
+interacao 37 
+Cidade visitada: 10 
+Circuito atual: [0, 4, 8, 11] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.480964064460842
+Funcao f (g + h): 50.42991661576323 
+----------------------------------------------------------
+interacao 38 
+Cidade visitada: 2 
+Circuito atual: [0, 4, 8, 11, 1] 
+Funcao g: 30.54488182043903 
+Funcao h: 25.280053564940722
+Funcao f (g + h): 55.82493538537975 
+----------------------------------------------------------
+interacao 39 
+Cidade visitada: 3 
+Circuito atual: [0, 4, 8, 11, 1] 
+Funcao g: 30.54488182043903 
+Funcao h: 25.23828551432129
+Funcao f (g + h): 55.78316733476032 
+----------------------------------------------------------
+interacao 40 
+Cidade visitada: 5 
+Circuito atual: [0, 4, 8, 11, 1] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.786474501097487
+Funcao f (g + h): 52.33135632153652 
+----------------------------------------------------------
+interacao 41 
+Cidade visitada: 6 
+Circuito atual: [0, 4, 8, 11, 1] 
+Funcao g: 30.54488182043903 
+Funcao h: 24.388312405585616
+Funcao f (g + h): 54.933194226024646 
+----------------------------------------------------------
+interacao 42 
+Cidade visitada: 7 
+Circuito atual: [0, 4, 8, 11, 1] 
+Funcao g: 30.54488182043903 
+Funcao h: 20.50274102795676
+Funcao f (g + h): 51.04762284839579 
+----------------------------------------------------------
+interacao 43 
+Cidade visitada: 9 
+Circuito atual: [0, 4, 8, 11, 1] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.862798343733957
+Funcao f (g + h): 52.40768016417299 
+----------------------------------------------------------
+interacao 44 
+Cidade visitada: 10 
+Circuito atual: [0, 4, 8, 11, 1] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.37912623824527
+Funcao f (g + h): 51.9240080586843 
+----------------------------------------------------------
+interacao 45 
+Cidade visitada: 2 
+Circuito atual: [0, 4, 8, 11, 1, 7] 
+Funcao g: 38.39408560171519 
+Funcao h: 22.11623656859845
+Funcao f (g + h): 60.51032217031364 
+----------------------------------------------------------
+interacao 46 
+Cidade visitada: 3 
+Circuito atual: [0, 4, 8, 11, 1, 7] 
+Funcao g: 38.39408560171519 
+Funcao h: 24.219579205199494
+Funcao f (g + h): 62.613664806914684 
+----------------------------------------------------------
+interacao 47 
+Cidade visitada: 5 
+Circuito atual: [0, 4, 8, 11, 1, 7] 
+Funcao g: 38.39408560171519 
+Funcao h: 21.760686018477607
+Funcao f (g + h): 60.1547716201928 
+----------------------------------------------------------
+interacao 48 
+Cidade visitada: 6 
+Circuito atual: [0, 4, 8, 11, 1, 7] 
+Funcao g: 38.39408560171519 
+Funcao h: 18.006803209102383
+Funcao f (g + h): 56.40088881081758 
+----------------------------------------------------------
+interacao 49 
+Cidade visitada: 9 
+Circuito atual: [0, 4, 8, 11, 1, 7] 
+Funcao g: 38.39408560171519 
+Funcao h: 21.308757417014473
+Funcao f (g + h): 59.702843018729666 
+----------------------------------------------------------
+interacao 50 
+Cidade visitada: 10 
+Circuito atual: [0, 4, 8, 11, 1, 7] 
+Funcao g: 38.39408560171519 
+Funcao h: 18.979586406783977
+Funcao f (g + h): 57.37367200849917 
+----------------------------------------------------------
+interacao 51 
+Cidade visitada: 2 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6] 
+Funcao g: 43.33372121580658 
+Funcao h: 15.598484293343924
+Funcao f (g + h): 58.9322055091505 
+----------------------------------------------------------
+interacao 52 
+Cidade visitada: 3 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6] 
+Funcao g: 43.33372121580658 
+Funcao h: 12.570025726885262
+Funcao f (g + h): 55.90374694269184 
+----------------------------------------------------------
+interacao 53 
+Cidade visitada: 5 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6] 
+Funcao g: 43.33372121580658 
+Funcao h: 18.168108325666438
+Funcao f (g + h): 61.501829541473015 
+----------------------------------------------------------
+interacao 54 
+Cidade visitada: 9 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6] 
+Funcao g: 43.33372121580658 
+Funcao h: 17.7161797242033
+Funcao f (g + h): 61.04990094000988 
+----------------------------------------------------------
+interacao 55 
+Cidade visitada: 10 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6] 
+Funcao g: 43.33372121580658 
+Funcao h: 15.387008713972804
+Funcao f (g + h): 58.72072992977938 
+----------------------------------------------------------
+interacao 56 
+Cidade visitada: 2 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 9.649409353583218
+Funcao f (g + h): 57.22577125650908 
+----------------------------------------------------------
+interacao 57 
+Cidade visitada: 5 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 12.797221791073778
+Funcao f (g + h): 60.373583693999635 
+----------------------------------------------------------
+interacao 58 
+Cidade visitada: 9 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 12.34529318961064
+Funcao f (g + h): 59.9216550925365 
+----------------------------------------------------------
+interacao 59 
+Cidade visitada: 10 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 12.979381822529126
+Funcao f (g + h): 60.55574372545499 
+----------------------------------------------------------
+interacao 60 
+Cidade visitada: 5 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6, 3, 2] 
+Funcao g: 52.601299713486306 
+Funcao h: 10.357345813126557
+Funcao f (g + h): 62.95864552661286 
+----------------------------------------------------------
+interacao 61 
+Cidade visitada: 9 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6, 3, 2] 
+Funcao g: 52.601299713486306 
+Funcao h: 9.90541721166342
+Funcao f (g + h): 62.506716925149725 
+----------------------------------------------------------
+interacao 62 
+Cidade visitada: 10 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6, 3, 2] 
+Funcao g: 52.601299713486306 
+Funcao h: 7.805500462124639
+Funcao f (g + h): 60.40680017561095 
+----------------------------------------------------------
+interacao 63 
+Cidade visitada: 5 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6, 3, 2, 10] 
+Funcao g: 56.94295838270479 
+Funcao h: 3.9157703943692947
+Funcao f (g + h): 60.858728777074084 
+----------------------------------------------------------
+interacao 64 
+Cidade visitada: 9 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6, 3, 2, 10] 
+Funcao g: 56.94295838270479 
+Funcao h: 5.7271460178745635
+Funcao f (g + h): 62.67010440057935 
+----------------------------------------------------------
+interacao 65 
+Cidade visitada: 9 
+Circuito atual: [0, 4, 8, 11, 1, 7, 6, 3, 2, 10, 5] 
+Funcao g: 62.90450180702034 
+Funcao h: 1.5620499351813308
+Funcao f (g + h): 64.46655174220167 
+
+Para a cidade inicial 0, o circuito de menor custo foi: [0, 4, 8, 11, 1, 7, 6, 3, 2, 10, 5, 9]
+----------------------------------------------------------
+
+Cidade inicial - cidade 5
+----------------------------------------------------------
+interacao 0 
+Cidade visitada: 0 
+Circuito atual: [5] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.11434668240871
+Funcao f (g + h): 41.13926904190833 
+----------------------------------------------------------
+interacao 1 
+Cidade visitada: 1 
+Circuito atual: [5] 
+Funcao g: 4.024922359499621 
+Funcao h: 33.71821022904118
+Funcao f (g + h): 37.7431325885408 
+----------------------------------------------------------
+interacao 2 
+Cidade visitada: 2 
+Circuito atual: [5] 
+Funcao g: 4.024922359499621 
+Funcao h: 32.581115188626995
+Funcao f (g + h): 36.606037548126615 
+----------------------------------------------------------
+interacao 3 
+Cidade visitada: 3 
+Circuito atual: [5] 
+Funcao g: 4.024922359499621 
+Funcao h: 32.539347138007564
+Funcao f (g + h): 36.56426949750718 
+----------------------------------------------------------
+interacao 4 
+Cidade visitada: 4 
+Circuito atual: [5] 
+Funcao g: 4.024922359499621 
+Funcao h: 31.16646055958349
+Funcao f (g + h): 35.19138291908311 
+----------------------------------------------------------
+interacao 5 
+Cidade visitada: 6 
+Circuito atual: [5] 
+Funcao g: 4.024922359499621 
+Funcao h: 34.64618674582343
+Funcao f (g + h): 38.67110910532305 
+----------------------------------------------------------
+interacao 6 
+Cidade visitada: 7 
+Circuito atual: [5] 
+Funcao g: 4.024922359499621 
+Funcao h: 35.54996136859467
+Funcao f (g + h): 39.57488372809429 
+----------------------------------------------------------
+interacao 7 
+Cidade visitada: 8 
+Circuito atual: [5] 
+Funcao g: 4.024922359499621 
+Funcao h: 36.558373503141055
+Funcao f (g + h): 40.583295862640675 
+----------------------------------------------------------
+interacao 8 
+Cidade visitada: 9 
+Circuito atual: [5] 
+Funcao g: 4.024922359499621 
+Funcao h: 36.46322537168926
+Funcao f (g + h): 40.48814773118888 
+----------------------------------------------------------
+interacao 9 
+Cidade visitada: 10 
+Circuito atual: [5] 
+Funcao g: 4.024922359499621 
+Funcao h: 31.96126643587417
+Funcao f (g + h): 35.98618879537379 
+----------------------------------------------------------
+interacao 10 
+Cidade visitada: 11 
+Circuito atual: [5] 
+Funcao g: 4.024922359499621 
+Funcao h: 38.59420353278965
+Funcao f (g + h): 42.61912589228927 
+----------------------------------------------------------
+interacao 11 
+Cidade visitada: 0 
+Circuito atual: [5, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 35.20889466587548
+Funcao f (g + h): 46.61555123895933 
+----------------------------------------------------------
+interacao 12 
+Cidade visitada: 1 
+Circuito atual: [5, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 28.639409829409548
+Funcao f (g + h): 40.046066402493395 
+----------------------------------------------------------
+interacao 13 
+Cidade visitada: 2 
+Circuito atual: [5, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.675663172093763
+Funcao f (g + h): 42.082319745177614 
+----------------------------------------------------------
+interacao 14 
+Cidade visitada: 3 
+Circuito atual: [5, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.633895121474332
+Funcao f (g + h): 42.04055169455818 
+----------------------------------------------------------
+interacao 15 
+Cidade visitada: 6 
+Circuito atual: [5, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 31.8901112401606
+Funcao f (g + h): 43.29676781324445 
+----------------------------------------------------------
+interacao 16 
+Cidade visitada: 7 
+Circuito atual: [5, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 33.644509352061434
+Funcao f (g + h): 45.051165925145284 
+----------------------------------------------------------
+interacao 17 
+Cidade visitada: 8 
+Circuito atual: [5, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 29.18151723545557
+Funcao f (g + h): 40.58817380853942 
+----------------------------------------------------------
+interacao 18 
+Cidade visitada: 9 
+Circuito atual: [5, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 34.55777335515603
+Funcao f (g + h): 45.96442992823988 
+----------------------------------------------------------
+interacao 19 
+Cidade visitada: 10 
+Circuito atual: [5, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.055814419340937
+Funcao f (g + h): 41.462470992424784 
+----------------------------------------------------------
+interacao 20 
+Cidade visitada: 11 
+Circuito atual: [5, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 36.62947238115098
+Funcao f (g + h): 48.03612895423483 
+----------------------------------------------------------
+interacao 21 
+Cidade visitada: 0 
+Circuito atual: [5, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.792908569739634
+Funcao f (g + h): 45.12018151612553 
+----------------------------------------------------------
+interacao 22 
+Cidade visitada: 2 
+Circuito atual: [5, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.321413315928297
+Funcao f (g + h): 42.64868626231419 
+----------------------------------------------------------
+interacao 23 
+Cidade visitada: 3 
+Circuito atual: [5, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.27964526530886
+Funcao f (g + h): 42.60691821169476 
+----------------------------------------------------------
+interacao 24 
+Cidade visitada: 6 
+Circuito atual: [5, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.535861383995133
+Funcao f (g + h): 43.86313433038103 
+----------------------------------------------------------
+interacao 25 
+Cidade visitada: 7 
+Circuito atual: [5, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.582910743306883
+Funcao f (g + h): 44.91018368969278 
+----------------------------------------------------------
+interacao 26 
+Cidade visitada: 8 
+Circuito atual: [5, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 26.119918626701015
+Funcao f (g + h): 40.44719157308691 
+----------------------------------------------------------
+interacao 27 
+Cidade visitada: 9 
+Circuito atual: [5, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.141787259020187
+Funcao f (g + h): 44.46906020540608 
+----------------------------------------------------------
+interacao 28 
+Cidade visitada: 10 
+Circuito atual: [5, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.70156456317547
+Funcao f (g + h): 42.02883750956137 
+----------------------------------------------------------
+interacao 29 
+Cidade visitada: 11 
+Circuito atual: [5, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 26.131422588612658
+Funcao f (g + h): 40.458695534998554 
+----------------------------------------------------------
+interacao 30 
+Cidade visitada: 0 
+Circuito atual: [5, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 29.44093899226742
+Funcao f (g + h): 51.3898915435698 
+----------------------------------------------------------
+interacao 31 
+Cidade visitada: 2 
+Circuito atual: [5, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.321215951764913
+Funcao f (g + h): 50.270168503067296 
+----------------------------------------------------------
+interacao 32 
+Cidade visitada: 3 
+Circuito atual: [5, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.27944790114548
+Funcao f (g + h): 50.22840045244787 
+----------------------------------------------------------
+interacao 33 
+Cidade visitada: 6 
+Circuito atual: [5, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 29.339652389105762
+Funcao f (g + h): 51.28860494040815 
+----------------------------------------------------------
+interacao 34 
+Cidade visitada: 7 
+Circuito atual: [5, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 29.78792021641302
+Funcao f (g + h): 51.73687276771541 
+----------------------------------------------------------
+interacao 35 
+Cidade visitada: 9 
+Circuito atual: [5, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.789817681547973
+Funcao f (g + h): 50.73877023285036 
+----------------------------------------------------------
+interacao 36 
+Cidade visitada: 10 
+Circuito atual: [5, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.681718472562476
+Funcao f (g + h): 50.63067102386486 
+----------------------------------------------------------
+interacao 37 
+Cidade visitada: 11 
+Circuito atual: [5, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 24.46462409097633
+Funcao f (g + h): 46.41357664227871 
+----------------------------------------------------------
+interacao 38 
+Cidade visitada: 0 
+Circuito atual: [5, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 20.99331309943437
+Funcao f (g + h): 51.538194919873405 
+----------------------------------------------------------
+interacao 39 
+Cidade visitada: 2 
+Circuito atual: [5, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 25.24208742919385
+Funcao f (g + h): 55.78696924963288 
+----------------------------------------------------------
+interacao 40 
+Cidade visitada: 3 
+Circuito atual: [5, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 25.200319378574417
+Funcao f (g + h): 55.74520119901345 
+----------------------------------------------------------
+interacao 41 
+Cidade visitada: 6 
+Circuito atual: [5, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 23.70993331526793
+Funcao f (g + h): 54.25481513570696 
+----------------------------------------------------------
+interacao 42 
+Cidade visitada: 7 
+Circuito atual: [5, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 20.504231905613242
+Funcao f (g + h): 51.04911372605227 
+----------------------------------------------------------
+interacao 43 
+Cidade visitada: 9 
+Circuito atual: [5, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 20.342191788714924
+Funcao f (g + h): 50.88707360915396 
+----------------------------------------------------------
+interacao 44 
+Cidade visitada: 10 
+Circuito atual: [5, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 23.90660981045233
+Funcao f (g + h): 54.45149163089136 
+----------------------------------------------------------
+interacao 45 
+Cidade visitada: 0 
+Circuito atual: [5, 4, 1, 8, 11, 9] 
+Funcao g: 38.39408560171519 
+Funcao h: 18.780141853533593
+Funcao f (g + h): 57.17422745524878 
+----------------------------------------------------------
+interacao 46 
+Cidade visitada: 2 
+Circuito atual: [5, 4, 1, 8, 11, 9] 
+Funcao g: 38.39408560171519 
+Funcao h: 22.27521179503331
+Funcao f (g + h): 60.669297396748505 
+----------------------------------------------------------
+interacao 47 
+Cidade visitada: 3 
+Circuito atual: [5, 4, 1, 8, 11, 9] 
+Funcao g: 38.39408560171519 
+Funcao h: 22.233443744413876
+Funcao f (g + h): 60.627529346129066 
+----------------------------------------------------------
+interacao 48 
+Cidade visitada: 6 
+Circuito atual: [5, 4, 1, 8, 11, 9] 
+Funcao g: 38.39408560171519 
+Funcao h: 21.383470635678204
+Funcao f (g + h): 59.7775562373934 
+----------------------------------------------------------
+interacao 49 
+Cidade visitada: 7 
+Circuito atual: [5, 4, 1, 8, 11, 9] 
+Funcao g: 38.39408560171519 
+Funcao h: 19.961887069930544
+Funcao f (g + h): 58.35597267164573 
+----------------------------------------------------------
+interacao 50 
+Cidade visitada: 10 
+Circuito atual: [5, 4, 1, 8, 11, 9] 
+Funcao g: 38.39408560171519 
+Funcao h: 21.194166733283772
+Funcao f (g + h): 59.58825233499896 
+----------------------------------------------------------
+interacao 51 
+Cidade visitada: 2 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0] 
+Funcao g: 43.33372121580658 
+Funcao h: 19.969798163930065
+Funcao f (g + h): 63.30351937973664 
+----------------------------------------------------------
+interacao 52 
+Cidade visitada: 3 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0] 
+Funcao g: 43.33372121580658 
+Funcao h: 19.076519281300957
+Funcao f (g + h): 62.41024049710754 
+----------------------------------------------------------
+interacao 53 
+Cidade visitada: 6 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0] 
+Funcao g: 43.33372121580658 
+Funcao h: 17.130751202900488
+Funcao f (g + h): 60.46447241870706 
+----------------------------------------------------------
+interacao 54 
+Cidade visitada: 7 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0] 
+Funcao g: 43.33372121580658 
+Funcao h: 16.586970633587462
+Funcao f (g + h): 59.92069184939404 
+----------------------------------------------------------
+interacao 55 
+Cidade visitada: 10 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0] 
+Funcao g: 43.33372121580658 
+Funcao h: 17.463355843875974
+Funcao f (g + h): 60.79707705968255 
+----------------------------------------------------------
+interacao 56 
+Cidade visitada: 2 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0, 7] 
+Funcao g: 47.57636190292586 
+Funcao h: 16.930079775762664
+Funcao f (g + h): 64.50644167868853 
+----------------------------------------------------------
+interacao 57 
+Cidade visitada: 3 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0, 7] 
+Funcao g: 47.57636190292586 
+Funcao h: 16.865787371130647
+Funcao f (g + h): 64.4421492740565 
+----------------------------------------------------------
+interacao 58 
+Cidade visitada: 6 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0, 7] 
+Funcao g: 47.57636190292586 
+Funcao h: 14.091032814733088
+Funcao f (g + h): 61.66739471765895 
+----------------------------------------------------------
+interacao 59 
+Cidade visitada: 10 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0, 7] 
+Funcao g: 47.57636190292586 
+Funcao h: 15.06381601241468
+Funcao f (g + h): 62.640177915340544 
+----------------------------------------------------------
+interacao 60 
+Cidade visitada: 2 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0, 7, 6] 
+Funcao g: 52.601299713486306 
+Funcao h: 11.68271389897463
+Funcao f (g + h): 64.28401361246094 
+----------------------------------------------------------
+interacao 61 
+Cidade visitada: 3 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0, 7, 6] 
+Funcao g: 52.601299713486306 
+Funcao h: 8.654255332515968
+Funcao f (g + h): 61.25555504600227 
+----------------------------------------------------------
+interacao 62 
+Cidade visitada: 10 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0, 7, 6] 
+Funcao g: 52.601299713486306 
+Funcao h: 11.47123831960351
+Funcao f (g + h): 64.07253803308981 
+----------------------------------------------------------
+interacao 63 
+Cidade visitada: 2 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0, 7, 6, 3] 
+Funcao g: 56.94295838270479 
+Funcao h: 5.7336389592139225
+Funcao f (g + h): 62.67659734191871 
+----------------------------------------------------------
+interacao 64 
+Cidade visitada: 10 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0, 7, 6, 3] 
+Funcao g: 56.94295838270479 
+Funcao h: 7.390980190802043
+Funcao f (g + h): 64.33393857350683 
+----------------------------------------------------------
+interacao 65 
+Cidade visitada: 10 
+Circuito atual: [5, 4, 1, 8, 11, 9, 0, 7, 6, 3, 2] 
+Funcao g: 62.90450180702034 
+Funcao h: 3.889730067755345
+Funcao f (g + h): 66.79423187477569 
+
+Para a cidade inicial 5, o circuito de menor custo foi: [5, 4, 1, 8, 11, 9, 0, 7, 6, 3, 2, 10]
+----------------------------------------------------------
+
+Cidade inicial - cidade 2
+----------------------------------------------------------
+interacao 0 
+Cidade visitada: 0 
+Circuito atual: [2] 
+Funcao g: 4.024922359499621 
+Funcao h: 32.986519619229526
+Funcao f (g + h): 37.011441978729145 
+----------------------------------------------------------
+interacao 1 
+Cidade visitada: 1 
+Circuito atual: [2] 
+Funcao g: 4.024922359499621 
+Funcao h: 30.42441155163285
+Funcao f (g + h): 34.44933391113247 
+----------------------------------------------------------
+interacao 2 
+Cidade visitada: 3 
+Circuito atual: [2] 
+Funcao g: 4.024922359499621 
+Funcao h: 33.19377766742145
+Funcao f (g + h): 37.21870002692107 
+----------------------------------------------------------
+interacao 3 
+Cidade visitada: 4 
+Circuito atual: [2] 
+Funcao g: 4.024922359499621 
+Funcao h: 28.177974867779625
+Funcao f (g + h): 32.202897227279244 
+----------------------------------------------------------
+interacao 4 
+Cidade visitada: 5 
+Circuito atual: [2] 
+Funcao g: 4.024922359499621 
+Funcao h: 32.25907446587361
+Funcao f (g + h): 36.28399682537323 
+----------------------------------------------------------
+interacao 5 
+Cidade visitada: 6 
+Circuito atual: [2] 
+Funcao g: 4.024922359499621 
+Funcao h: 28.445448988092206
+Funcao f (g + h): 32.47037134759183 
+----------------------------------------------------------
+interacao 6 
+Cidade visitada: 7 
+Circuito atual: [2] 
+Funcao g: 4.024922359499621 
+Funcao h: 32.25616269118634
+Funcao f (g + h): 36.28108505068596 
+----------------------------------------------------------
+interacao 7 
+Cidade visitada: 8 
+Circuito atual: [2] 
+Funcao g: 4.024922359499621 
+Funcao h: 32.59451190932283
+Funcao f (g + h): 36.61943426882245 
+----------------------------------------------------------
+interacao 8 
+Cidade visitada: 9 
+Circuito atual: [2] 
+Funcao g: 4.024922359499621 
+Funcao h: 35.05782212027025
+Funcao f (g + h): 39.08274447976987 
+----------------------------------------------------------
+interacao 9 
+Cidade visitada: 10 
+Circuito atual: [2] 
+Funcao g: 4.024922359499621 
+Funcao h: 34.67885832264663
+Funcao f (g + h): 38.70378068214625 
+----------------------------------------------------------
+interacao 10 
+Cidade visitada: 11 
+Circuito atual: [2] 
+Funcao g: 4.024922359499621 
+Funcao h: 36.738218252902094
+Funcao f (g + h): 40.76314061240171 
+----------------------------------------------------------
+interacao 11 
+Cidade visitada: 0 
+Circuito atual: [2, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 31.081067602696297
+Funcao f (g + h): 42.487724175780144 
+----------------------------------------------------------
+interacao 12 
+Cidade visitada: 1 
+Circuito atual: [2, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 25.65092413760568
+Funcao f (g + h): 37.057580710689535 
+----------------------------------------------------------
+interacao 13 
+Cidade visitada: 3 
+Circuito atual: [2, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 32.0004966886477
+Funcao f (g + h): 43.40715326173155 
+----------------------------------------------------------
+interacao 14 
+Cidade visitada: 5 
+Circuito atual: [2, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.35362244934038
+Funcao f (g + h): 41.76027902242423 
+----------------------------------------------------------
+interacao 15 
+Cidade visitada: 6 
+Circuito atual: [2, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 26.539996971558974
+Funcao f (g + h): 37.94665354464283 
+----------------------------------------------------------
+interacao 16 
+Cidade visitada: 7 
+Circuito atual: [2, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.350710674653108
+Funcao f (g + h): 41.75736724773696 
+----------------------------------------------------------
+interacao 17 
+Cidade visitada: 8 
+Circuito atual: [2, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 26.193031543651703
+Funcao f (g + h): 37.59968811673555 
+----------------------------------------------------------
+interacao 18 
+Cidade visitada: 9 
+Circuito atual: [2, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 33.15237010373702
+Funcao f (g + h): 44.55902667682087 
+----------------------------------------------------------
+interacao 19 
+Cidade visitada: 10 
+Circuito atual: [2, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 33.48557734387289
+Funcao f (g + h): 44.89223391695674 
+----------------------------------------------------------
+interacao 20 
+Cidade visitada: 11 
+Circuito atual: [2, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 36.116977170222405
+Funcao f (g + h): 47.523633743306256 
+----------------------------------------------------------
+interacao 21 
+Cidade visitada: 0 
+Circuito atual: [2, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 26.5820789370926
+Funcao f (g + h): 40.90935188347849 
+----------------------------------------------------------
+interacao 22 
+Cidade visitada: 3 
+Circuito atual: [2, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.086524764542716
+Funcao f (g + h): 41.41379771092861 
+----------------------------------------------------------
+interacao 23 
+Cidade visitada: 5 
+Circuito atual: [2, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 25.854633783736684
+Funcao f (g + h): 40.18190673012258 
+----------------------------------------------------------
+interacao 24 
+Cidade visitada: 6 
+Circuito atual: [2, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 23.478398362804416
+Funcao f (g + h): 37.805671309190316 
+----------------------------------------------------------
+interacao 25 
+Cidade visitada: 7 
+Circuito atual: [2, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.28911206589855
+Funcao f (g + h): 41.61638501228445 
+----------------------------------------------------------
+interacao 26 
+Cidade visitada: 8 
+Circuito atual: [2, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 23.13143293489715
+Funcao f (g + h): 37.458705881283045 
+----------------------------------------------------------
+interacao 27 
+Cidade visitada: 9 
+Circuito atual: [2, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.5019578185738
+Funcao f (g + h): 44.829230764959696 
+----------------------------------------------------------
+interacao 28 
+Cidade visitada: 10 
+Circuito atual: [2, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.5716054197679
+Funcao f (g + h): 42.898878366153795 
+----------------------------------------------------------
+interacao 29 
+Cidade visitada: 11 
+Circuito atual: [2, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 23.14293689680879
+Funcao f (g + h): 37.47020984319469 
+----------------------------------------------------------
+interacao 30 
+Cidade visitada: 0 
+Circuito atual: [2, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 26.581881572929216
+Funcao f (g + h): 48.5308341242316 
+----------------------------------------------------------
+interacao 31 
+Cidade visitada: 3 
+Circuito atual: [2, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 25.61185337965862
+Funcao f (g + h): 47.56080593096101 
+----------------------------------------------------------
+interacao 32 
+Cidade visitada: 5 
+Circuito atual: [2, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 25.8544364195733
+Funcao f (g + h): 47.80338897087569 
+----------------------------------------------------------
+interacao 33 
+Cidade visitada: 6 
+Circuito atual: [2, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 27.104502110752595
+Funcao f (g + h): 49.05345466205498 
+----------------------------------------------------------
+interacao 34 
+Cidade visitada: 7 
+Circuito atual: [2, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 27.288914701735166
+Funcao f (g + h): 49.23786725303755 
+----------------------------------------------------------
+interacao 35 
+Cidade visitada: 9 
+Circuito atual: [2, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 30.501760454410416
+Funcao f (g + h): 52.4507130057128 
+----------------------------------------------------------
+interacao 36 
+Cidade visitada: 10 
+Circuito atual: [2, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 29.42905752174302
+Funcao f (g + h): 51.3780100730454 
+----------------------------------------------------------
+interacao 37 
+Cidade visitada: 11 
+Circuito atual: [2, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 21.476138399172463
+Funcao f (g + h): 43.42509095047485 
+----------------------------------------------------------
+interacao 38 
+Cidade visitada: 0 
+Circuito atual: [2, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 18.004827407630508
+Funcao f (g + h): 48.54970922806954 
+----------------------------------------------------------
+interacao 39 
+Cidade visitada: 3 
+Circuito atual: [2, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.021710885195997
+Funcao f (g + h): 51.56659270563503 
+----------------------------------------------------------
+interacao 40 
+Cidade visitada: 5 
+Circuito atual: [2, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 17.277382254274592
+Funcao f (g + h): 47.82226407471362 
+----------------------------------------------------------
+interacao 41 
+Cidade visitada: 6 
+Circuito atual: [2, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 20.416134637859596
+Funcao f (g + h): 50.96101645829863 
+----------------------------------------------------------
+interacao 42 
+Cidade visitada: 7 
+Circuito atual: [2, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 24.12635227517164
+Funcao f (g + h): 54.67123409561067 
+----------------------------------------------------------
+interacao 43 
+Cidade visitada: 9 
+Circuito atual: [2, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 25.911617959947794
+Funcao f (g + h): 56.45649978038682 
+----------------------------------------------------------
+interacao 44 
+Cidade visitada: 10 
+Circuito atual: [2, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 20.85200335644431
+Funcao f (g + h): 51.396885176883345 
+----------------------------------------------------------
+interacao 45 
+Cidade visitada: 0 
+Circuito atual: [2, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 15.574783105806072
+Funcao f (g + h): 53.96886870752126 
+----------------------------------------------------------
+interacao 46 
+Cidade visitada: 3 
+Circuito atual: [2, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 18.127001200969254
+Funcao f (g + h): 56.521086802684444 
+----------------------------------------------------------
+interacao 47 
+Cidade visitada: 6 
+Circuito atual: [2, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 17.92366979252415
+Funcao f (g + h): 56.31775539423934 
+----------------------------------------------------------
+interacao 48 
+Cidade visitada: 7 
+Circuito atual: [2, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 21.633887429836197
+Funcao f (g + h): 60.02797303155138 
+----------------------------------------------------------
+interacao 49 
+Cidade visitada: 9 
+Circuito atual: [2, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 14.923661795086625
+Funcao f (g + h): 53.31774739680181 
+----------------------------------------------------------
+interacao 50 
+Cidade visitada: 10 
+Circuito atual: [2, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 19.612081856194433
+Funcao f (g + h): 58.006167457909626 
+----------------------------------------------------------
+interacao 51 
+Cidade visitada: 0 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9] 
+Funcao g: 43.33372121580658 
+Funcao h: 13.361611859905294
+Funcao f (g + h): 56.69533307571187 
+----------------------------------------------------------
+interacao 52 
+Cidade visitada: 3 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9] 
+Funcao g: 43.33372121580658 
+Funcao h: 15.160125566808713
+Funcao f (g + h): 58.49384678261529 
+----------------------------------------------------------
+interacao 53 
+Cidade visitada: 6 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9] 
+Funcao g: 43.33372121580658 
+Funcao h: 15.21122671535559
+Funcao f (g + h): 58.54494793116217 
+----------------------------------------------------------
+interacao 54 
+Cidade visitada: 7 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9] 
+Funcao g: 43.33372121580658 
+Funcao h: 18.921444352667635
+Funcao f (g + h): 62.25516556847421 
+----------------------------------------------------------
+interacao 55 
+Cidade visitada: 10 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9] 
+Funcao g: 43.33372121580658 
+Funcao h: 16.64520622203389
+Funcao f (g + h): 59.97892743784047 
+----------------------------------------------------------
+interacao 56 
+Cidade visitada: 3 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9, 0] 
+Funcao g: 47.57636190292586 
+Funcao h: 12.003201103695794
+Funcao f (g + h): 59.579563006621655 
+----------------------------------------------------------
+interacao 57 
+Cidade visitada: 6 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9, 0] 
+Funcao g: 47.57636190292586 
+Funcao h: 11.480415825947794
+Funcao f (g + h): 59.056777728873655 
+----------------------------------------------------------
+interacao 58 
+Cidade visitada: 7 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9, 0] 
+Funcao g: 47.57636190292586 
+Funcao h: 11.168440639959163
+Funcao f (g + h): 58.744802542885026 
+----------------------------------------------------------
+interacao 59 
+Cidade visitada: 10 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9, 0] 
+Funcao g: 47.57636190292586 
+Funcao h: 12.685004406953782
+Funcao f (g + h): 60.26136630987964 
+----------------------------------------------------------
+interacao 60 
+Cidade visitada: 3 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9, 0, 7] 
+Funcao g: 52.601299713486306 
+Funcao h: 9.792469193525484
+Funcao f (g + h): 62.39376890701179 
+----------------------------------------------------------
+interacao 61 
+Cidade visitada: 6 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9, 0, 7] 
+Funcao g: 52.601299713486306 
+Funcao h: 9.080875994486501
+Funcao f (g + h): 61.6821757079728 
+----------------------------------------------------------
+interacao 62 
+Cidade visitada: 10 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9, 0, 7] 
+Funcao g: 52.601299713486306 
+Funcao h: 9.645286018786383
+Funcao f (g + h): 62.24658573227269 
+----------------------------------------------------------
+interacao 63 
+Cidade visitada: 3 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9, 0, 7, 6] 
+Funcao g: 56.94295838270479 
+Funcao h: 4.976000844131743
+Funcao f (g + h): 61.918959226836535 
+----------------------------------------------------------
+interacao 64 
+Cidade visitada: 10 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9, 0, 7, 6] 
+Funcao g: 56.94295838270479 
+Funcao h: 6.052708325975211
+Funcao f (g + h): 62.99566670868 
+----------------------------------------------------------
+interacao 65 
+Cidade visitada: 10 
+Circuito atual: [2, 4, 1, 8, 11, 5, 9, 0, 7, 6, 3] 
+Funcao g: 62.90450180702034 
+Funcao h: 1.8439088914585775
+Funcao f (g + h): 64.74841069847892 
+
+Para a cidade inicial 2, o circuito de menor custo foi: [2, 4, 1, 8, 11, 5, 9, 0, 7, 6, 3, 10]
+----------------------------------------------------------
+
+Cidade inicial - cidade 1
+----------------------------------------------------------
+interacao 0 
+Cidade visitada: 0 
+Circuito atual: [1] 
+Funcao g: 4.024922359499621 
+Funcao h: 38.63932365281025
+Funcao f (g + h): 42.66424601230987 
+----------------------------------------------------------
+interacao 1 
+Cidade visitada: 2 
+Circuito atual: [1] 
+Funcao g: 4.024922359499621 
+Funcao h: 38.88998523403649
+Funcao f (g + h): 42.91490759353611 
+----------------------------------------------------------
+interacao 2 
+Cidade visitada: 3 
+Circuito atual: [1] 
+Funcao g: 4.024922359499621 
+Funcao h: 35.48871961301578
+Funcao f (g + h): 39.5136419725154 
+----------------------------------------------------------
+interacao 3 
+Cidade visitada: 4 
+Circuito atual: [1] 
+Funcao g: 4.024922359499621 
+Funcao h: 34.045825017366326
+Funcao f (g + h): 38.070747376865945 
+----------------------------------------------------------
+interacao 4 
+Cidade visitada: 5 
+Circuito atual: [1] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.91187849945434
+Funcao f (g + h): 41.93680085895396 
+----------------------------------------------------------
+interacao 5 
+Cidade visitada: 6 
+Circuito atual: [1] 
+Funcao g: 4.024922359499621 
+Funcao h: 40.95505679123292
+Funcao f (g + h): 44.97997915073254 
+----------------------------------------------------------
+interacao 6 
+Cidade visitada: 7 
+Circuito atual: [1] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.58709836167616
+Funcao f (g + h): 41.61202072117578 
+----------------------------------------------------------
+interacao 7 
+Cidade visitada: 8 
+Circuito atual: [1] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.23605922166462
+Funcao f (g + h): 41.26098158116424 
+----------------------------------------------------------
+interacao 8 
+Cidade visitada: 9 
+Circuito atual: [1] 
+Funcao g: 4.024922359499621 
+Funcao h: 40.79994411435141
+Funcao f (g + h): 44.82486647385103 
+----------------------------------------------------------
+interacao 9 
+Cidade visitada: 10 
+Circuito atual: [1] 
+Funcao g: 4.024922359499621 
+Funcao h: 41.61504090733922
+Funcao f (g + h): 45.63996326683884 
+----------------------------------------------------------
+interacao 10 
+Cidade visitada: 11 
+Circuito atual: [1] 
+Funcao g: 4.024922359499621 
+Funcao h: 36.30895859008034
+Funcao f (g + h): 40.33388094957996 
+----------------------------------------------------------
+interacao 11 
+Cidade visitada: 0 
+Circuito atual: [1, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 36.733871636277016
+Funcao f (g + h): 48.140528209360866 
+----------------------------------------------------------
+interacao 12 
+Cidade visitada: 2 
+Circuito atual: [1, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 37.71252975748027
+Funcao f (g + h): 49.11918633056412 
+----------------------------------------------------------
+interacao 13 
+Cidade visitada: 3 
+Circuito atual: [1, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 34.31126413645956
+Funcao f (g + h): 45.717920709543414 
+----------------------------------------------------------
+interacao 14 
+Cidade visitada: 5 
+Circuito atual: [1, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 36.0064264829211
+Funcao f (g + h): 47.41308305600495 
+----------------------------------------------------------
+interacao 15 
+Cidade visitada: 6 
+Circuito atual: [1, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 38.73096619482112
+Funcao f (g + h): 50.13762276790497 
+----------------------------------------------------------
+interacao 16 
+Cidade visitada: 7 
+Circuito atual: [1, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 35.68164634514292
+Funcao f (g + h): 47.08830291822677 
+----------------------------------------------------------
+interacao 17 
+Cidade visitada: 8 
+Circuito atual: [1, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 32.0608816932384
+Funcao f (g + h): 43.46753826632225 
+----------------------------------------------------------
+interacao 18 
+Cidade visitada: 9 
+Circuito atual: [1, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 38.89449209781818
+Funcao f (g + h): 50.30114867090203 
+----------------------------------------------------------
+interacao 19 
+Cidade visitada: 10 
+Circuito atual: [1, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 39.70958889080599
+Funcao f (g + h): 51.11624546388984 
+----------------------------------------------------------
+interacao 20 
+Cidade visitada: 11 
+Circuito atual: [1, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 32.07238565515004
+Funcao f (g + h): 43.479042228233894 
+----------------------------------------------------------
+interacao 21 
+Cidade visitada: 0 
+Circuito atual: [1, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.5342645514297
+Funcao f (g + h): 41.8615374978156 
+----------------------------------------------------------
+interacao 22 
+Cidade visitada: 2 
+Circuito atual: [1, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.390220865221064
+Funcao f (g + h): 42.71749381160696 
+----------------------------------------------------------
+interacao 23 
+Cidade visitada: 3 
+Circuito atual: [1, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 32.83659275157546
+Funcao f (g + h): 47.163865697961356 
+----------------------------------------------------------
+interacao 24 
+Cidade visitada: 5 
+Circuito atual: [1, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 26.80681939807378
+Funcao f (g + h): 41.134092344459674 
+----------------------------------------------------------
+interacao 25 
+Cidade visitada: 6 
+Circuito atual: [1, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.408657302561913
+Funcao f (g + h): 43.73593024894781 
+----------------------------------------------------------
+interacao 26 
+Cidade visitada: 7 
+Circuito atual: [1, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 26.482039260295604
+Funcao f (g + h): 40.8093122066815 
+----------------------------------------------------------
+interacao 27 
+Cidade visitada: 9 
+Circuito atual: [1, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.694885012970854
+Funcao f (g + h): 44.02215795935675 
+----------------------------------------------------------
+interacao 28 
+Cidade visitada: 10 
+Circuito atual: [1, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.509981805958674
+Funcao f (g + h): 44.83725475234457 
+----------------------------------------------------------
+interacao 29 
+Cidade visitada: 11 
+Circuito atual: [1, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.405587157513715
+Funcao f (g + h): 44.73286010389961 
+----------------------------------------------------------
+interacao 30 
+Cidade visitada: 0 
+Circuito atual: [1, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 26.980223624710213
+Funcao f (g + h): 48.929176176012604 
+----------------------------------------------------------
+interacao 31 
+Cidade visitada: 2 
+Circuito atual: [1, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 29.049728700502868
+Funcao f (g + h): 50.99868125180525 
+----------------------------------------------------------
+interacao 32 
+Cidade visitada: 3 
+Circuito atual: [1, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 32.78223359517666
+Funcao f (g + h): 54.73118614647905 
+----------------------------------------------------------
+interacao 33 
+Cidade visitada: 5 
+Circuito atual: [1, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 29.859315144763023
+Funcao f (g + h): 51.808267696065414 
+----------------------------------------------------------
+interacao 34 
+Cidade visitada: 6 
+Circuito atual: [1, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 23.98610144144123
+Funcao f (g + h): 45.93505399274362 
+----------------------------------------------------------
+interacao 35 
+Cidade visitada: 9 
+Circuito atual: [1, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 27.99992872420885
+Funcao f (g + h): 49.94888127551124 
+----------------------------------------------------------
+interacao 36 
+Cidade visitada: 10 
+Circuito atual: [1, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 24.958884639122825
+Funcao f (g + h): 46.90783719042521 
+----------------------------------------------------------
+interacao 37 
+Cidade visitada: 11 
+Circuito atual: [1, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 29.85154623079423
+Funcao f (g + h): 51.80049878209662 
+----------------------------------------------------------
+interacao 38 
+Cidade visitada: 0 
+Circuito atual: [1, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 23.387645931899044
+Funcao f (g + h): 53.932527752338075 
+----------------------------------------------------------
+interacao 39 
+Cidade visitada: 2 
+Circuito atual: [1, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.57778252568277
+Funcao f (g + h): 52.1226643461218 
+----------------------------------------------------------
+interacao 40 
+Cidade visitada: 3 
+Circuito atual: [1, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.69495556810596
+Funcao f (g + h): 52.23983738854499 
+----------------------------------------------------------
+interacao 41 
+Cidade visitada: 5 
+Circuito atual: [1, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 27.97144683837626
+Funcao f (g + h): 58.51632865881529 
+----------------------------------------------------------
+interacao 42 
+Cidade visitada: 9 
+Circuito atual: [1, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 24.40735103139768
+Funcao f (g + h): 54.95223285183671 
+----------------------------------------------------------
+interacao 43 
+Cidade visitada: 10 
+Circuito atual: [1, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.36630694631165
+Funcao f (g + h): 51.91118876675068 
+----------------------------------------------------------
+interacao 44 
+Cidade visitada: 11 
+Circuito atual: [1, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 26.25896853798306
+Funcao f (g + h): 56.80385035842209 
+----------------------------------------------------------
+interacao 45 
+Cidade visitada: 0 
+Circuito atual: [1, 4, 8, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 23.20107827202859
+Funcao f (g + h): 61.59516387374378 
+----------------------------------------------------------
+interacao 46 
+Cidade visitada: 2 
+Circuito atual: [1, 4, 8, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 19.522398054853074
+Funcao f (g + h): 57.91648365656826 
+----------------------------------------------------------
+interacao 47 
+Cidade visitada: 3 
+Circuito atual: [1, 4, 8, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 20.447013763136024
+Funcao f (g + h): 58.84109936485122 
+----------------------------------------------------------
+interacao 48 
+Cidade visitada: 5 
+Circuito atual: [1, 4, 8, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 25.916062367546562
+Funcao f (g + h): 64.31014796926175 
+----------------------------------------------------------
+interacao 49 
+Cidade visitada: 9 
+Circuito atual: [1, 4, 8, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 24.220783371527222
+Funcao f (g + h): 62.61486897324241 
+----------------------------------------------------------
+interacao 50 
+Cidade visitada: 11 
+Circuito atual: [1, 4, 8, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 26.072400878112603
+Funcao f (g + h): 64.4664864798278 
+----------------------------------------------------------
+interacao 51 
+Cidade visitada: 0 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 21.44010365422596
+Funcao f (g + h): 64.77382487003254 
+----------------------------------------------------------
+interacao 52 
+Cidade visitada: 3 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 16.601781681551028
+Funcao f (g + h): 59.93550289735761 
+----------------------------------------------------------
+interacao 53 
+Cidade visitada: 5 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 25.914346169683984
+Funcao f (g + h): 69.24806738549056 
+----------------------------------------------------------
+interacao 54 
+Cidade visitada: 9 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 22.459808753724598
+Funcao f (g + h): 65.79352996953118 
+----------------------------------------------------------
+interacao 55 
+Cidade visitada: 11 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 24.31142626030998
+Funcao f (g + h): 67.64514747611656 
+----------------------------------------------------------
+interacao 56 
+Cidade visitada: 0 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 13.268463618625226
+Funcao f (g + h): 60.84482552155109 
+----------------------------------------------------------
+interacao 57 
+Cidade visitada: 5 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 9.895068626708142
+Funcao f (g + h): 57.471430529634006 
+----------------------------------------------------------
+interacao 58 
+Cidade visitada: 9 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 14.288168718123863
+Funcao f (g + h): 61.864530621049724 
+----------------------------------------------------------
+interacao 59 
+Cidade visitada: 11 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 14.37421241373662
+Funcao f (g + h): 61.95057431666248 
+----------------------------------------------------------
+interacao 60 
+Cidade visitada: 0 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2, 3, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 8.862739962506925
+Funcao f (g + h): 61.464039675993234 
+----------------------------------------------------------
+interacao 61 
+Cidade visitada: 9 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2, 3, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 7.541348167520178
+Funcao f (g + h): 60.14264788100648 
+----------------------------------------------------------
+interacao 62 
+Cidade visitada: 11 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2, 3, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 9.672326328620567
+Funcao f (g + h): 62.27362604210687 
+----------------------------------------------------------
+interacao 63 
+Cidade visitada: 0 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2, 3, 5, 9] 
+Funcao g: 56.94295838270479 
+Funcao h: 5.979298232338847
+Funcao f (g + h): 62.922256615043636 
+----------------------------------------------------------
+interacao 64 
+Cidade visitada: 11 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2, 3, 5, 9] 
+Funcao g: 56.94295838270479 
+Funcao h: 7.496233351041578
+Funcao f (g + h): 64.43919173374637 
+----------------------------------------------------------
+interacao 65 
+Cidade visitada: 11 
+Circuito atual: [1, 4, 8, 7, 6, 10, 2, 3, 5, 9, 0] 
+Funcao g: 62.90450180702034 
+Funcao h: 2.5079872407968904
+Funcao f (g + h): 65.41248904781723 
+
+Para a cidade inicial 1, o circuito de menor custo foi: [1, 4, 8, 7, 6, 10, 2, 3, 5, 9, 0, 11]
+----------------------------------------------------------
+
+Cidade inicial - cidade 7
+----------------------------------------------------------
+interacao 0 
+Cidade visitada: 0 
+Circuito atual: [7] 
+Funcao g: 4.024922359499621 
+Funcao h: 36.93229272233856
+Funcao f (g + h): 40.95721508183818 
+----------------------------------------------------------
+interacao 1 
+Cidade visitada: 1 
+Circuito atual: [7] 
+Funcao g: 4.024922359499621 
+Funcao h: 30.208251342821768
+Funcao f (g + h): 34.23317370232139 
+----------------------------------------------------------
+interacao 2 
+Cidade visitada: 2 
+Circuito atual: [7] 
+Funcao g: 4.024922359499621 
+Funcao h: 29.950462035430718
+Funcao f (g + h): 33.97538439493034 
+----------------------------------------------------------
+interacao 3 
+Cidade visitada: 3 
+Circuito atual: [7] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.303168521443034
+Funcao f (g + h): 41.32809088094265 
+----------------------------------------------------------
+interacao 4 
+Cidade visitada: 4 
+Circuito atual: [7] 
+Funcao g: 4.024922359499621 
+Funcao h: 30.98440659951334
+Funcao f (g + h): 35.00932895901296 
+----------------------------------------------------------
+interacao 5 
+Cidade visitada: 5 
+Circuito atual: [7] 
+Funcao g: 4.024922359499621 
+Funcao h: 38.61875980662244
+Funcao f (g + h): 42.64368216612206 
+----------------------------------------------------------
+interacao 6 
+Cidade visitada: 6 
+Circuito atual: [7] 
+Funcao g: 4.024922359499621 
+Funcao h: 36.58164337002356
+Funcao f (g + h): 40.60656572952318 
+----------------------------------------------------------
+interacao 7 
+Cidade visitada: 8 
+Circuito atual: [7] 
+Funcao g: 4.024922359499621 
+Funcao h: 36.376319543070906
+Funcao f (g + h): 40.401241902570526 
+----------------------------------------------------------
+interacao 8 
+Cidade visitada: 9 
+Circuito atual: [7] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.95199782183719
+Funcao f (g + h): 41.97692018133681 
+----------------------------------------------------------
+interacao 9 
+Cidade visitada: 10 
+Circuito atual: [7] 
+Funcao g: 4.024922359499621 
+Funcao h: 33.55656624936988
+Funcao f (g + h): 37.5814886088695 
+----------------------------------------------------------
+interacao 10 
+Cidade visitada: 11 
+Circuito atual: [7] 
+Funcao g: 4.024922359499621 
+Funcao h: 35.661452409867145
+Funcao f (g + h): 39.686374769366765 
+----------------------------------------------------------
+interacao 11 
+Cidade visitada: 0 
+Circuito atual: [7, 2] 
+Funcao g: 11.40665657308385 
+Funcao h: 31.180181647214596
+Funcao f (g + h): 42.586838220298446 
+----------------------------------------------------------
+interacao 12 
+Cidade visitada: 1 
+Circuito atual: [7, 2] 
+Funcao g: 11.40665657308385 
+Funcao h: 27.74359746919263
+Funcao f (g + h): 39.15025404227648 
+----------------------------------------------------------
+interacao 13 
+Cidade visitada: 3 
+Circuito atual: [7, 2] 
+Funcao g: 11.40665657308385 
+Funcao h: 35.670735209355584
+Funcao f (g + h): 47.077391782439435 
+----------------------------------------------------------
+interacao 14 
+Cidade visitada: 4 
+Circuito atual: [7, 2] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.155250639393067
+Funcao f (g + h): 41.56190721247692 
+----------------------------------------------------------
+interacao 15 
+Cidade visitada: 5 
+Circuito atual: [7, 2] 
+Funcao g: 11.40665657308385 
+Funcao h: 35.70562073922885
+Funcao f (g + h): 47.1122773123127 
+----------------------------------------------------------
+interacao 16 
+Cidade visitada: 6 
+Circuito atual: [7, 2] 
+Funcao g: 11.40665657308385 
+Funcao h: 29.61944740773846
+Funcao f (g + h): 41.02610398082231 
+----------------------------------------------------------
+interacao 17 
+Cidade visitada: 8 
+Circuito atual: [7, 2] 
+Funcao g: 11.40665657308385 
+Funcao h: 33.099051068617435
+Funcao f (g + h): 44.505707641701285 
+----------------------------------------------------------
+interacao 18 
+Cidade visitada: 9 
+Circuito atual: [7, 2] 
+Funcao g: 11.40665657308385 
+Funcao h: 32.19988674671323
+Funcao f (g + h): 43.60654331979708 
+----------------------------------------------------------
+interacao 19 
+Cidade visitada: 10 
+Circuito atual: [7, 2] 
+Funcao g: 11.40665657308385 
+Funcao h: 28.106553143972143
+Funcao f (g + h): 39.51320971705599 
+----------------------------------------------------------
+interacao 20 
+Cidade visitada: 11 
+Circuito atual: [7, 2] 
+Funcao g: 11.40665657308385 
+Funcao h: 35.43156205120784
+Funcao f (g + h): 46.83821862429169 
+----------------------------------------------------------
+interacao 21 
+Cidade visitada: 0 
+Circuito atual: [7, 2, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.524724720961384
+Funcao f (g + h): 41.85199766734728 
+----------------------------------------------------------
+interacao 22 
+Cidade visitada: 3 
+Circuito atual: [7, 2, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.74093778303306
+Funcao f (g + h): 45.06821072941896 
+----------------------------------------------------------
+interacao 23 
+Cidade visitada: 4 
+Circuito atual: [7, 2, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.09365203063851
+Funcao f (g + h): 41.420924977024406 
+----------------------------------------------------------
+interacao 24 
+Cidade visitada: 5 
+Circuito atual: [7, 2, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 23.64749278308832
+Funcao f (g + h): 37.974765729474214 
+----------------------------------------------------------
+interacao 25 
+Cidade visitada: 6 
+Circuito atual: [7, 2, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 26.557848798983905
+Funcao f (g + h): 40.8851217453698 
+----------------------------------------------------------
+interacao 26 
+Cidade visitada: 8 
+Circuito atual: [7, 2, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 26.162710859980024
+Funcao f (g + h): 40.48998380636592 
+----------------------------------------------------------
+interacao 27 
+Cidade visitada: 9 
+Circuito atual: [7, 2, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.54442982046002
+Funcao f (g + h): 42.871702766845914 
+----------------------------------------------------------
+interacao 28 
+Cidade visitada: 10 
+Circuito atual: [7, 2, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 25.044954535217585
+Funcao f (g + h): 39.37222748160348 
+----------------------------------------------------------
+interacao 29 
+Cidade visitada: 11 
+Circuito atual: [7, 2, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 25.235610228395736
+Funcao f (g + h): 39.56288317478163 
+----------------------------------------------------------
+interacao 30 
+Cidade visitada: 0 
+Circuito atual: [7, 2, 1, 5] 
+Funcao g: 21.948952551302387 
+Funcao h: 25.622932863236556
+Funcao f (g + h): 47.57188541453894 
+----------------------------------------------------------
+interacao 31 
+Cidade visitada: 3 
+Circuito atual: [7, 2, 1, 5] 
+Funcao g: 21.948952551302387 
+Funcao h: 25.588736646171064
+Funcao f (g + h): 47.537689197473455 
+----------------------------------------------------------
+interacao 32 
+Cidade visitada: 4 
+Circuito atual: [7, 2, 1, 5] 
+Funcao g: 21.948952551302387 
+Funcao h: 25.191860172913685
+Funcao f (g + h): 47.140812724216076 
+----------------------------------------------------------
+interacao 33 
+Cidade visitada: 6 
+Circuito atual: [7, 2, 1, 5] 
+Funcao g: 21.948952551302387 
+Funcao h: 24.656056941259077
+Funcao f (g + h): 46.605009492561464 
+----------------------------------------------------------
+interacao 34 
+Cidade visitada: 8 
+Circuito atual: [7, 2, 1, 5] 
+Funcao g: 21.948952551302387 
+Funcao h: 23.732666558155593
+Funcao f (g + h): 45.68161910945798 
+----------------------------------------------------------
+interacao 35 
+Cidade visitada: 9 
+Circuito atual: [7, 2, 1, 5] 
+Funcao g: 21.948952551302387 
+Funcao h: 21.293772323900352
+Funcao f (g + h): 43.24272487520274 
+----------------------------------------------------------
+interacao 36 
+Cidade visitada: 10 
+Circuito atual: [7, 2, 1, 5] 
+Funcao g: 21.948952551302387 
+Funcao h: 22.614910233393154
+Funcao f (g + h): 44.563862784695544 
+----------------------------------------------------------
+interacao 37 
+Cidade visitada: 11 
+Circuito atual: [7, 2, 1, 5] 
+Funcao g: 21.948952551302387 
+Funcao h: 22.805565926571305
+Funcao f (g + h): 44.75451847787369 
+----------------------------------------------------------
+interacao 38 
+Cidade visitada: 0 
+Circuito atual: [7, 2, 1, 5, 9] 
+Funcao g: 30.54488182043903 
+Funcao h: 19.731722388719025
+Funcao f (g + h): 50.27660420915805 
+----------------------------------------------------------
+interacao 39 
+Cidade visitada: 3 
+Circuito atual: [7, 2, 1, 5, 9] 
+Funcao g: 30.54488182043903 
+Funcao h: 22.705294916002984
+Funcao f (g + h): 53.250176736442015 
+----------------------------------------------------------
+interacao 40 
+Cidade visitada: 4 
+Circuito atual: [7, 2, 1, 5, 9] 
+Funcao g: 30.54488182043903 
+Funcao h: 22.95011825323398
+Funcao f (g + h): 53.49500007367301 
+----------------------------------------------------------
+interacao 41 
+Cidade visitada: 6 
+Circuito atual: [7, 2, 1, 5, 9] 
+Funcao g: 30.54488182043903 
+Funcao h: 22.414315021579377
+Funcao f (g + h): 52.95919684201841 
+----------------------------------------------------------
+interacao 42 
+Cidade visitada: 8 
+Circuito atual: [7, 2, 1, 5, 9] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.51949531225481
+Funcao f (g + h): 52.06437713269384 
+----------------------------------------------------------
+interacao 43 
+Cidade visitada: 10 
+Circuito atual: [7, 2, 1, 5, 9] 
+Funcao g: 30.54488182043903 
+Funcao h: 20.401738987492372
+Funcao f (g + h): 50.9466208079314 
+----------------------------------------------------------
+interacao 44 
+Cidade visitada: 11 
+Circuito atual: [7, 2, 1, 5, 9] 
+Funcao g: 30.54488182043903 
+Funcao h: 20.592394680670523
+Funcao f (g + h): 51.137276501109554 
+----------------------------------------------------------
+interacao 45 
+Cidade visitada: 3 
+Circuito atual: [7, 2, 1, 5, 9, 0] 
+Funcao g: 38.39408560171519 
+Funcao h: 19.866407433575848
+Funcao f (g + h): 58.260493035291034 
+----------------------------------------------------------
+interacao 46 
+Cidade visitada: 4 
+Circuito atual: [7, 2, 1, 5, 9, 0] 
+Funcao g: 38.39408560171519 
+Funcao h: 17.994999876333058
+Funcao f (g + h): 56.389085478048244 
+----------------------------------------------------------
+interacao 47 
+Cidade visitada: 6 
+Circuito atual: [7, 2, 1, 5, 9, 0] 
+Funcao g: 38.39408560171519 
+Funcao h: 21.242580769632863
+Funcao f (g + h): 59.636666371348056 
+----------------------------------------------------------
+interacao 48 
+Cidade visitada: 8 
+Circuito atual: [7, 2, 1, 5, 9, 0] 
+Funcao g: 38.39408560171519 
+Funcao h: 17.187512028761354
+Funcao f (g + h): 55.581597630476544 
+----------------------------------------------------------
+interacao 49 
+Cidade visitada: 10 
+Circuito atual: [7, 2, 1, 5, 9, 0] 
+Funcao g: 38.39408560171519 
+Funcao h: 19.719224258836746
+Funcao f (g + h): 58.11330986055194 
+----------------------------------------------------------
+interacao 50 
+Cidade visitada: 11 
+Circuito atual: [7, 2, 1, 5, 9, 0] 
+Funcao g: 38.39408560171519 
+Funcao h: 16.260411397177066
+Funcao f (g + h): 54.654496998892256 
+----------------------------------------------------------
+interacao 51 
+Cidade visitada: 3 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11] 
+Funcao g: 43.33372121580658 
+Funcao h: 17.471786102137987
+Funcao f (g + h): 60.80550731794456 
+----------------------------------------------------------
+interacao 52 
+Cidade visitada: 4 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11] 
+Funcao g: 43.33372121580658 
+Funcao h: 14.684608169047067
+Funcao f (g + h): 58.018329384853644 
+----------------------------------------------------------
+interacao 53 
+Cidade visitada: 6 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11] 
+Funcao g: 43.33372121580658 
+Funcao h: 18.4919528338312
+Funcao f (g + h): 61.825674049637776 
+----------------------------------------------------------
+interacao 54 
+Cidade visitada: 8 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11] 
+Funcao g: 43.33372121580658 
+Funcao h: 14.60511686145238
+Funcao f (g + h): 57.93883807725896 
+----------------------------------------------------------
+interacao 55 
+Cidade visitada: 10 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11] 
+Funcao g: 43.33372121580658 
+Funcao h: 17.324602927398885
+Funcao f (g + h): 60.65832414320546 
+----------------------------------------------------------
+interacao 56 
+Cidade visitada: 3 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11, 8] 
+Funcao g: 47.57636190292586 
+Funcao h: 17.252529645210704
+Funcao f (g + h): 64.82889154813657 
+----------------------------------------------------------
+interacao 57 
+Cidade visitada: 4 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11, 8] 
+Funcao g: 47.57636190292586 
+Funcao h: 12.620173537324462
+Funcao f (g + h): 60.19653544025032 
+----------------------------------------------------------
+interacao 58 
+Cidade visitada: 6 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11, 8] 
+Funcao g: 47.57636190292586 
+Funcao h: 17.960609609194687
+Funcao f (g + h): 65.53697151212054 
+----------------------------------------------------------
+interacao 59 
+Cidade visitada: 10 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11, 8] 
+Funcao g: 47.57636190292586 
+Funcao h: 17.1053464704716
+Funcao f (g + h): 64.68170837339746 
+----------------------------------------------------------
+interacao 60 
+Cidade visitada: 3 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11, 8, 4] 
+Funcao g: 52.601299713486306 
+Funcao h: 12.323785891858414
+Funcao f (g + h): 64.92508560534472 
+----------------------------------------------------------
+interacao 61 
+Cidade visitada: 6 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11, 8, 4] 
+Funcao g: 52.601299713486306 
+Funcao h: 8.760121724200705
+Funcao f (g + h): 61.361421437687014 
+----------------------------------------------------------
+interacao 62 
+Cidade visitada: 10 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11, 8, 4] 
+Funcao g: 52.601299713486306 
+Funcao h: 12.176602717119312
+Funcao f (g + h): 64.77790243060562 
+----------------------------------------------------------
+interacao 63 
+Cidade visitada: 3 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11, 8, 4, 6] 
+Funcao g: 56.94295838270479 
+Funcao h: 4.655246573845947
+Funcao f (g + h): 61.59820495655073 
+----------------------------------------------------------
+interacao 64 
+Cidade visitada: 10 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11, 8, 4, 6] 
+Funcao g: 56.94295838270479 
+Funcao h: 7.780747672340949
+Funcao f (g + h): 64.72370605504574 
+----------------------------------------------------------
+interacao 65 
+Cidade visitada: 10 
+Circuito atual: [7, 2, 1, 5, 9, 0, 11, 8, 4, 6, 3] 
+Funcao g: 62.90450180702034 
+Funcao h: 1.523154621172782
+Funcao f (g + h): 64.42765642819312 
+
+Para a cidade inicial 7, o circuito de menor custo foi: [7, 2, 1, 5, 9, 0, 11, 8, 4, 6, 3, 10]
+----------------------------------------------------------
+
+Cidade inicial - cidade 3
+----------------------------------------------------------
+interacao 0 
+Cidade visitada: 0 
+Circuito atual: [3] 
+Funcao g: 4.024922359499621 
+Funcao h: 32.83767792939025
+Funcao f (g + h): 36.86260028888987 
+----------------------------------------------------------
+interacao 1 
+Cidade visitada: 1 
+Circuito atual: [3] 
+Funcao g: 4.024922359499621 
+Funcao h: 28.599314011321386
+Funcao f (g + h): 32.62423637082101 
+----------------------------------------------------------
+interacao 2 
+Cidade visitada: 2 
+Circuito atual: [3] 
+Funcao g: 4.024922359499621 
+Funcao h: 33.60215084080316
+Funcao f (g + h): 37.62707320030278 
+----------------------------------------------------------
+interacao 3 
+Cidade visitada: 4 
+Circuito atual: [3] 
+Funcao g: 4.024922359499621 
+Funcao h: 26.88979180656504
+Funcao f (g + h): 30.914714166064662 
+----------------------------------------------------------
+interacao 4 
+Cidade visitada: 5 
+Circuito atual: [3] 
+Funcao g: 4.024922359499621 
+Funcao h: 32.11023277603434
+Funcao f (g + h): 36.13515513553396 
+----------------------------------------------------------
+interacao 5 
+Cidade visitada: 6 
+Circuito atual: [3] 
+Funcao g: 4.024922359499621 
+Funcao h: 35.667222397999595
+Funcao f (g + h): 39.692144757499214 
+----------------------------------------------------------
+interacao 6 
+Cidade visitada: 7 
+Circuito atual: [3] 
+Funcao g: 4.024922359499621 
+Funcao h: 30.431065150874876
+Funcao f (g + h): 34.4559875103745 
+----------------------------------------------------------
+interacao 7 
+Cidade visitada: 8 
+Circuito atual: [3] 
+Funcao g: 4.024922359499621 
+Funcao h: 32.28170475012261
+Funcao f (g + h): 36.30662710962223 
+----------------------------------------------------------
+interacao 8 
+Cidade visitada: 9 
+Circuito atual: [3] 
+Funcao g: 4.024922359499621 
+Funcao h: 33.232724579958784
+Funcao f (g + h): 37.257646939458404 
+----------------------------------------------------------
+interacao 9 
+Cidade visitada: 10 
+Circuito atual: [3] 
+Funcao g: 4.024922359499621 
+Funcao h: 35.813395183919226
+Funcao f (g + h): 39.838317543418846 
+----------------------------------------------------------
+interacao 10 
+Cidade visitada: 11 
+Circuito atual: [3] 
+Funcao g: 4.024922359499621 
+Funcao h: 36.589376563062814
+Funcao f (g + h): 40.61429892256243 
+----------------------------------------------------------
+interacao 11 
+Cidade visitada: 0 
+Circuito atual: [3, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.932225912857017
+Funcao f (g + h): 42.33888248594087 
+----------------------------------------------------------
+interacao 12 
+Cidade visitada: 1 
+Circuito atual: [3, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 24.362741076391096
+Funcao f (g + h): 35.769397649474946 
+----------------------------------------------------------
+interacao 13 
+Cidade visitada: 2 
+Circuito atual: [3, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 32.40886986202942
+Funcao f (g + h): 43.81552643511327 
+----------------------------------------------------------
+interacao 14 
+Cidade visitada: 5 
+Circuito atual: [3, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.2047807595011
+Funcao f (g + h): 41.611437332584956 
+----------------------------------------------------------
+interacao 15 
+Cidade visitada: 6 
+Circuito atual: [3, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 32.92932047140111
+Funcao f (g + h): 44.33597704448496 
+----------------------------------------------------------
+interacao 16 
+Cidade visitada: 7 
+Circuito atual: [3, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 28.52561313434164
+Funcao f (g + h): 39.93226970742549 
+----------------------------------------------------------
+interacao 17 
+Cidade visitada: 8 
+Circuito atual: [3, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 24.904848482437117
+Funcao f (g + h): 36.31150505552097 
+----------------------------------------------------------
+interacao 18 
+Cidade visitada: 9 
+Circuito atual: [3, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 31.327272563425552
+Funcao f (g + h): 42.7339291365094 
+----------------------------------------------------------
+interacao 19 
+Cidade visitada: 10 
+Circuito atual: [3, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 33.907943167385994
+Funcao f (g + h): 45.314599740469845 
+----------------------------------------------------------
+interacao 20 
+Cidade visitada: 11 
+Circuito atual: [3, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 35.96813548038313
+Funcao f (g + h): 47.37479205346698 
+----------------------------------------------------------
+interacao 21 
+Cidade visitada: 0 
+Circuito atual: [3, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 26.51623981672118
+Funcao f (g + h): 40.84351276310707 
+----------------------------------------------------------
+interacao 22 
+Cidade visitada: 2 
+Circuito atual: [3, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.494897937924428
+Funcao f (g + h): 41.822170884310324 
+----------------------------------------------------------
+interacao 23 
+Cidade visitada: 5 
+Circuito atual: [3, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 25.788794663365262
+Funcao f (g + h): 40.116067609751155 
+----------------------------------------------------------
+interacao 24 
+Cidade visitada: 6 
+Circuito atual: [3, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.513334375265277
+Funcao f (g + h): 42.84060732165118 
+----------------------------------------------------------
+interacao 25 
+Cidade visitada: 7 
+Circuito atual: [3, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 25.464014525587086
+Funcao f (g + h): 39.79128747197298 
+----------------------------------------------------------
+interacao 26 
+Cidade visitada: 8 
+Circuito atual: [3, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 21.84324987368256
+Funcao f (g + h): 36.170522820068456 
+----------------------------------------------------------
+interacao 27 
+Cidade visitada: 9 
+Circuito atual: [3, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.67686027826234
+Funcao f (g + h): 43.004133224648236 
+----------------------------------------------------------
+interacao 28 
+Cidade visitada: 10 
+Circuito atual: [3, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.49195707125015
+Funcao f (g + h): 43.819230017636045 
+----------------------------------------------------------
+interacao 29 
+Cidade visitada: 11 
+Circuito atual: [3, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 21.854753835594202
+Funcao f (g + h): 36.1820267819801 
+----------------------------------------------------------
+interacao 30 
+Cidade visitada: 0 
+Circuito atual: [3, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 26.516042452557798
+Funcao f (g + h): 48.46499500386018 
+----------------------------------------------------------
+interacao 31 
+Cidade visitada: 2 
+Circuito atual: [3, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 26.020226553040327
+Funcao f (g + h): 47.969179104342714 
+----------------------------------------------------------
+interacao 32 
+Cidade visitada: 5 
+Circuito atual: [3, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 25.788597299201882
+Funcao f (g + h): 47.737549850504266 
+----------------------------------------------------------
+interacao 33 
+Cidade visitada: 6 
+Circuito atual: [3, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 27.038662990381177
+Funcao f (g + h): 48.98761554168357 
+----------------------------------------------------------
+interacao 34 
+Cidade visitada: 7 
+Circuito atual: [3, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 25.4638171614237
+Funcao f (g + h): 47.41276971272609 
+----------------------------------------------------------
+interacao 35 
+Cidade visitada: 9 
+Circuito atual: [3, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.676662914098955
+Funcao f (g + h): 50.62561546540134 
+----------------------------------------------------------
+interacao 36 
+Cidade visitada: 10 
+Circuito atual: [3, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 29.49175970708677
+Funcao f (g + h): 51.440712258389155 
+----------------------------------------------------------
+interacao 37 
+Cidade visitada: 11 
+Circuito atual: [3, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 20.187955337957874
+Funcao f (g + h): 42.13690788926026 
+----------------------------------------------------------
+interacao 38 
+Cidade visitada: 0 
+Circuito atual: [3, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 16.71664434641592
+Funcao f (g + h): 47.26152616685495 
+----------------------------------------------------------
+interacao 39 
+Cidade visitada: 2 
+Circuito atual: [3, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.430084058577705
+Funcao f (g + h): 51.974965879016736 
+----------------------------------------------------------
+interacao 40 
+Cidade visitada: 5 
+Circuito atual: [3, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 15.989199193060001
+Funcao f (g + h): 46.53408101349903 
+----------------------------------------------------------
+interacao 41 
+Cidade visitada: 6 
+Circuito atual: [3, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 18.59103709754813
+Funcao f (g + h): 49.13591891798716 
+----------------------------------------------------------
+interacao 42 
+Cidade visitada: 7 
+Circuito atual: [3, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 22.301254734860176
+Funcao f (g + h): 52.84613655529921 
+----------------------------------------------------------
+interacao 43 
+Cidade visitada: 9 
+Circuito atual: [3, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 24.08652041963633
+Funcao f (g + h): 54.63140224007536 
+----------------------------------------------------------
+interacao 44 
+Cidade visitada: 10 
+Circuito atual: [3, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 19.692361600944892
+Funcao f (g + h): 50.23724342138392 
+----------------------------------------------------------
+interacao 45 
+Cidade visitada: 0 
+Circuito atual: [3, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 14.286600044591484
+Funcao f (g + h): 52.68068564630667 
+----------------------------------------------------------
+interacao 46 
+Cidade visitada: 2 
+Circuito atual: [3, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 18.535374374350965
+Funcao f (g + h): 56.929459976066155 
+----------------------------------------------------------
+interacao 47 
+Cidade visitada: 6 
+Circuito atual: [3, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 17.003220260425042
+Funcao f (g + h): 55.39730586214023 
+----------------------------------------------------------
+interacao 48 
+Cidade visitada: 7 
+Circuito atual: [3, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 20.713437897737087
+Funcao f (g + h): 59.10752349945228 
+----------------------------------------------------------
+interacao 49 
+Cidade visitada: 9 
+Circuito atual: [3, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 13.635478733872038
+Funcao f (g + h): 52.029564335587224 
+----------------------------------------------------------
+interacao 50 
+Cidade visitada: 10 
+Circuito atual: [3, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 17.199896755609444
+Funcao f (g + h): 55.593982357324634 
+----------------------------------------------------------
+interacao 51 
+Cidade visitada: 0 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9] 
+Funcao g: 43.33372121580658 
+Funcao h: 12.073428798690706
+Funcao f (g + h): 55.40715001449728 
+----------------------------------------------------------
+interacao 52 
+Cidade visitada: 2 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9] 
+Funcao g: 43.33372121580658 
+Funcao h: 15.568498740190424
+Funcao f (g + h): 58.902219955997 
+----------------------------------------------------------
+interacao 53 
+Cidade visitada: 6 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9] 
+Funcao g: 43.33372121580658 
+Funcao h: 14.676757580835318
+Funcao f (g + h): 58.01047879664189 
+----------------------------------------------------------
+interacao 54 
+Cidade visitada: 7 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9] 
+Funcao g: 43.33372121580658 
+Funcao h: 18.386975218147363
+Funcao f (g + h): 61.72069643395394 
+----------------------------------------------------------
+interacao 55 
+Cidade visitada: 10 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9] 
+Funcao g: 43.33372121580658 
+Funcao h: 14.487453678440884
+Funcao f (g + h): 57.82117489424746 
+----------------------------------------------------------
+interacao 56 
+Cidade visitada: 2 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9, 0] 
+Funcao g: 47.57636190292586 
+Funcao h: 12.411574277077506
+Funcao f (g + h): 59.987936180003366 
+----------------------------------------------------------
+interacao 57 
+Cidade visitada: 6 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9, 0] 
+Funcao g: 47.57636190292586 
+Funcao h: 10.424038148057601
+Funcao f (g + h): 58.00040005098346 
+----------------------------------------------------------
+interacao 58 
+Cidade visitada: 7 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9, 0] 
+Funcao g: 47.57636190292586 
+Funcao h: 9.880257578744576
+Funcao f (g + h): 57.45661948167044 
+----------------------------------------------------------
+interacao 59 
+Cidade visitada: 10 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9, 0] 
+Funcao g: 47.57636190292586 
+Funcao h: 10.756642789033087
+Funcao f (g + h): 58.33300469195895 
+----------------------------------------------------------
+interacao 60 
+Cidade visitada: 2 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9, 0, 7] 
+Funcao g: 52.601299713486306 
+Funcao h: 10.200842366907196
+Funcao f (g + h): 62.8021420803935 
+----------------------------------------------------------
+interacao 61 
+Cidade visitada: 6 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9, 0, 7] 
+Funcao g: 52.601299713486306 
+Funcao h: 7.384319759890202
+Funcao f (g + h): 59.98561947337651 
+----------------------------------------------------------
+interacao 62 
+Cidade visitada: 10 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9, 0, 7] 
+Funcao g: 52.601299713486306 
+Funcao h: 8.357102957571794
+Funcao f (g + h): 60.958402671058096 
+----------------------------------------------------------
+interacao 63 
+Cidade visitada: 2 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9, 0, 7, 6] 
+Funcao g: 56.94295838270479 
+Funcao h: 4.976000844131743
+Funcao f (g + h): 61.918959226836535 
+----------------------------------------------------------
+interacao 64 
+Cidade visitada: 10 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9, 0, 7, 6] 
+Funcao g: 56.94295838270479 
+Funcao h: 4.764525264760623
+Funcao f (g + h): 61.70748364746541 
+----------------------------------------------------------
+interacao 65 
+Cidade visitada: 2 
+Circuito atual: [3, 4, 1, 8, 11, 5, 9, 0, 7, 6, 10] 
+Funcao g: 62.90450180702034 
+Funcao h: 2.920616373302046
+Funcao f (g + h): 65.82511818032239 
+
+Para a cidade inicial 3, o circuito de menor custo foi: [3, 4, 1, 8, 11, 5, 9, 0, 7, 6, 10, 2]
+----------------------------------------------------------
+
+Cidade inicial - cidade 9
+----------------------------------------------------------
+interacao 0 
+Cidade visitada: 0 
+Circuito atual: [9] 
+Funcao g: 4.024922359499621 
+Funcao h: 39.14329132168522
+Funcao f (g + h): 43.16821368118484 
+----------------------------------------------------------
+interacao 1 
+Cidade visitada: 1 
+Circuito atual: [9] 
+Funcao g: 4.024922359499621 
+Funcao h: 35.52958585254645
+Funcao f (g + h): 39.554508212046066 
+----------------------------------------------------------
+interacao 2 
+Cidade visitada: 2 
+Circuito atual: [9] 
+Funcao g: 4.024922359499621 
+Funcao h: 40.532422682028226
+Funcao f (g + h): 44.557345041527846 
+----------------------------------------------------------
+interacao 3 
+Cidade visitada: 3 
+Circuito atual: [9] 
+Funcao g: 4.024922359499621 
+Funcao h: 39.18376178430514
+Funcao f (g + h): 43.20868414380476 
+----------------------------------------------------------
+interacao 4 
+Cidade visitada: 4 
+Circuito atual: [9] 
+Funcao g: 4.024922359499621 
+Funcao h: 31.307009772870675
+Funcao f (g + h): 35.3319321323703 
+----------------------------------------------------------
+interacao 5 
+Cidade visitada: 5 
+Circuito atual: [9] 
+Funcao g: 4.024922359499621 
+Funcao h: 36.91001868437186
+Funcao f (g + h): 40.93494104387148 
+----------------------------------------------------------
+interacao 6 
+Cidade visitada: 6 
+Circuito atual: [9] 
+Funcao g: 4.024922359499621 
+Funcao h: 42.59749423922466
+Funcao f (g + h): 46.62241659872428 
+----------------------------------------------------------
+interacao 7 
+Cidade visitada: 7 
+Circuito atual: [9] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.361336992099936
+Funcao f (g + h): 41.386259351599556 
+----------------------------------------------------------
+interacao 8 
+Cidade visitada: 8 
+Circuito atual: [9] 
+Funcao g: 4.024922359499621 
+Funcao h: 36.69892271642824
+Funcao f (g + h): 40.72384507592786 
+----------------------------------------------------------
+interacao 9 
+Cidade visitada: 10 
+Circuito atual: [9] 
+Funcao g: 4.024922359499621 
+Funcao h: 42.74366702514429
+Funcao f (g + h): 46.76858938464391 
+----------------------------------------------------------
+interacao 10 
+Cidade visitada: 11 
+Circuito atual: [9] 
+Funcao g: 4.024922359499621 
+Funcao h: 40.40557915629492
+Funcao f (g + h): 44.43050151579454 
+----------------------------------------------------------
+interacao 11 
+Cidade visitada: 0 
+Circuito atual: [9, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 37.23783930515199
+Funcao f (g + h): 48.64449587823584 
+----------------------------------------------------------
+interacao 12 
+Cidade visitada: 1 
+Circuito atual: [9, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 28.779959042696735
+Funcao f (g + h): 40.18661561578058 
+----------------------------------------------------------
+interacao 13 
+Cidade visitada: 2 
+Circuito atual: [9, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 39.339141703254484
+Funcao f (g + h): 50.745798276338334 
+----------------------------------------------------------
+interacao 14 
+Cidade visitada: 3 
+Circuito atual: [9, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 37.9904808055314
+Funcao f (g + h): 49.39713737861525 
+----------------------------------------------------------
+interacao 15 
+Cidade visitada: 5 
+Circuito atual: [9, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 35.00456666783863
+Funcao f (g + h): 46.41122324092248 
+----------------------------------------------------------
+interacao 16 
+Cidade visitada: 6 
+Circuito atual: [9, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 39.85959231262618
+Funcao f (g + h): 51.26624888571003 
+----------------------------------------------------------
+interacao 17 
+Cidade visitada: 7 
+Circuito atual: [9, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 35.455884975566704
+Funcao f (g + h): 46.862541548650555 
+----------------------------------------------------------
+interacao 18 
+Cidade visitada: 8 
+Circuito atual: [9, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 29.322066448742756
+Funcao f (g + h): 40.72872302182661 
+----------------------------------------------------------
+interacao 19 
+Cidade visitada: 10 
+Circuito atual: [9, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 40.83821500861106
+Funcao f (g + h): 52.24487158169491 
+----------------------------------------------------------
+interacao 20 
+Cidade visitada: 11 
+Circuito atual: [9, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 35.54434777243453
+Funcao f (g + h): 46.95100434551838 
+----------------------------------------------------------
+interacao 21 
+Cidade visitada: 0 
+Circuito atual: [9, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 34.587427019988766
+Funcao f (g + h): 48.91469996637466 
+----------------------------------------------------------
+interacao 22 
+Cidade visitada: 2 
+Circuito atual: [9, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 34.4251697791495
+Funcao f (g + h): 48.752442725535396 
+----------------------------------------------------------
+interacao 23 
+Cidade visitada: 3 
+Circuito atual: [9, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 33.076508881426406
+Funcao f (g + h): 47.4037818278123 
+----------------------------------------------------------
+interacao 24 
+Cidade visitada: 5 
+Circuito atual: [9, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 31.942968059084084
+Funcao f (g + h): 46.270241005469984 
+----------------------------------------------------------
+interacao 25 
+Cidade visitada: 6 
+Circuito atual: [9, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 35.44360621649034
+Funcao f (g + h): 49.770879162876234 
+----------------------------------------------------------
+interacao 26 
+Cidade visitada: 7 
+Circuito atual: [9, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 32.39428636681215
+Funcao f (g + h): 46.72155931319805 
+----------------------------------------------------------
+interacao 27 
+Cidade visitada: 8 
+Circuito atual: [9, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 26.2604678399882
+Funcao f (g + h): 40.5877407863741 
+----------------------------------------------------------
+interacao 28 
+Cidade visitada: 10 
+Circuito atual: [9, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 36.42222891247522
+Funcao f (g + h): 50.749501858861116 
+----------------------------------------------------------
+interacao 29 
+Cidade visitada: 11 
+Circuito atual: [9, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 26.27197180189984
+Funcao f (g + h): 40.59924474828574 
+----------------------------------------------------------
+interacao 30 
+Cidade visitada: 0 
+Circuito atual: [9, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 30.41755062352134
+Funcao f (g + h): 52.36650317482373 
+----------------------------------------------------------
+interacao 31 
+Cidade visitada: 2 
+Circuito atual: [9, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 30.132591575270183
+Funcao f (g + h): 52.08154412657257 
+----------------------------------------------------------
+interacao 32 
+Cidade visitada: 3 
+Circuito atual: [9, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 31.60183749654231
+Funcao f (g + h): 53.5507900478447 
+----------------------------------------------------------
+interacao 33 
+Cidade visitada: 5 
+Circuito atual: [9, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 27.773091662616654
+Funcao f (g + h): 49.72204421391904 
+----------------------------------------------------------
+interacao 34 
+Cidade visitada: 6 
+Circuito atual: [9, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 31.15102801261103
+Funcao f (g + h): 53.09998056391342 
+----------------------------------------------------------
+interacao 35 
+Cidade visitada: 7 
+Circuito atual: [9, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.22440997034472
+Funcao f (g + h): 50.17336252164711 
+----------------------------------------------------------
+interacao 36 
+Cidade visitada: 10 
+Circuito atual: [9, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 32.25235251600779
+Funcao f (g + h): 54.20130506731017 
+----------------------------------------------------------
+interacao 37 
+Cidade visitada: 11 
+Circuito atual: [9, 4, 1, 8] 
+Funcao g: 21.948952551302387 
+Funcao h: 24.605173304263513
+Funcao f (g + h): 46.5541258555659 
+----------------------------------------------------------
+interacao 38 
+Cidade visitada: 0 
+Circuito atual: [9, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.133862312721558
+Funcao f (g + h): 51.67874413316059 
+----------------------------------------------------------
+interacao 39 
+Cidade visitada: 2 
+Circuito atual: [9, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 27.05346305269912
+Funcao f (g + h): 57.598344873138146 
+----------------------------------------------------------
+interacao 40 
+Cidade visitada: 3 
+Circuito atual: [9, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 27.011695002079684
+Funcao f (g + h): 57.556576822518714 
+----------------------------------------------------------
+interacao 41 
+Cidade visitada: 5 
+Circuito atual: [9, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.071127819727323
+Funcao f (g + h): 51.616009640166354 
+----------------------------------------------------------
+interacao 42 
+Cidade visitada: 6 
+Circuito atual: [9, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 25.521308938773196
+Funcao f (g + h): 56.066190759212226 
+----------------------------------------------------------
+interacao 43 
+Cidade visitada: 7 
+Circuito atual: [9, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.522446127455392
+Funcao f (g + h): 52.06732794789443 
+----------------------------------------------------------
+interacao 44 
+Cidade visitada: 10 
+Circuito atual: [9, 4, 1, 8, 11] 
+Funcao g: 30.54488182043903 
+Funcao h: 26.622633442169956
+Funcao f (g + h): 57.16751526260899 
+----------------------------------------------------------
+interacao 45 
+Cidade visitada: 0 
+Circuito atual: [9, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 19.54604547559847
+Funcao f (g + h): 57.94013107731366 
+----------------------------------------------------------
+interacao 46 
+Cidade visitada: 2 
+Circuito atual: [9, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 23.041115417098187
+Funcao f (g + h): 61.43520101881337 
+----------------------------------------------------------
+interacao 47 
+Cidade visitada: 3 
+Circuito atual: [9, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 21.692454519375097
+Funcao f (g + h): 60.08654012109029 
+----------------------------------------------------------
+interacao 48 
+Cidade visitada: 6 
+Circuito atual: [9, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 22.14937425774308
+Funcao f (g + h): 60.54345985945827 
+----------------------------------------------------------
+interacao 49 
+Cidade visitada: 7 
+Circuito atual: [9, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 18.150511446425277
+Funcao f (g + h): 56.54459704814047 
+----------------------------------------------------------
+interacao 50 
+Cidade visitada: 10 
+Circuito atual: [9, 4, 1, 8, 11, 5] 
+Funcao g: 38.39408560171519 
+Funcao h: 21.96007035534865
+Funcao f (g + h): 60.35415595706384 
+----------------------------------------------------------
+interacao 51 
+Cidade visitada: 0 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7] 
+Funcao g: 43.33372121580658 
+Funcao h: 19.491686319199665
+Funcao f (g + h): 62.82540753500624 
+----------------------------------------------------------
+interacao 52 
+Cidade visitada: 2 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7] 
+Funcao g: 43.33372121580658 
+Funcao h: 16.546314786926008
+Funcao f (g + h): 59.88003600273258 
+----------------------------------------------------------
+interacao 53 
+Cidade visitada: 3 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7] 
+Funcao g: 43.33372121580658 
+Funcao h: 21.638095362976298
+Funcao f (g + h): 64.97181657878288 
+----------------------------------------------------------
+interacao 54 
+Cidade visitada: 6 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7] 
+Funcao g: 43.33372121580658 
+Funcao h: 15.654573627570903
+Funcao f (g + h): 58.98829484337748 
+----------------------------------------------------------
+interacao 55 
+Cidade visitada: 10 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7] 
+Funcao g: 43.33372121580658 
+Funcao h: 16.627356825252495
+Funcao f (g + h): 59.96107804105907 
+----------------------------------------------------------
+interacao 56 
+Cidade visitada: 0 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7, 6] 
+Funcao g: 47.57636190292586 
+Funcao h: 15.899108626388497
+Funcao f (g + h): 63.47547052931436 
+----------------------------------------------------------
+interacao 57 
+Cidade visitada: 2 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7, 6] 
+Funcao g: 47.57636190292586 
+Funcao h: 13.246254711812444
+Funcao f (g + h): 60.82261661473831 
+----------------------------------------------------------
+interacao 58 
+Cidade visitada: 3 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7, 6] 
+Funcao g: 47.57636190292586 
+Funcao h: 9.988541884662066
+Funcao f (g + h): 57.56490378758792 
+----------------------------------------------------------
+interacao 59 
+Cidade visitada: 10 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7, 6] 
+Funcao g: 47.57636190292586 
+Funcao h: 13.034779132441324
+Funcao f (g + h): 60.61114103536718 
+----------------------------------------------------------
+interacao 60 
+Cidade visitada: 0 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7, 6, 3] 
+Funcao g: 52.601299713486306 
+Funcao h: 10.914202489374674
+Funcao f (g + h): 63.51550220286098 
+----------------------------------------------------------
+interacao 61 
+Cidade visitada: 2 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7, 6, 3] 
+Funcao g: 52.601299713486306 
+Funcao h: 7.067925511360019
+Funcao f (g + h): 59.66922522484632 
+----------------------------------------------------------
+interacao 62 
+Cidade visitada: 10 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7, 6, 3] 
+Funcao g: 52.601299713486306 
+Funcao h: 7.663892597848663
+Funcao f (g + h): 60.26519231133497 
+----------------------------------------------------------
+interacao 63 
+Cidade visitada: 0 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7, 6, 3, 2] 
+Funcao g: 56.94295838270479 
+Funcao h: 8.003625353938594
+Funcao f (g + h): 64.94658373664338 
+----------------------------------------------------------
+interacao 64 
+Cidade visitada: 10 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7, 6, 3, 2] 
+Funcao g: 56.94295838270479 
+Funcao h: 5.224016619901442
+Funcao f (g + h): 62.16697500260623 
+----------------------------------------------------------
+interacao 65 
+Cidade visitada: 0 
+Circuito atual: [9, 4, 1, 8, 11, 5, 7, 6, 3, 2, 10] 
+Funcao g: 62.90450180702034 
+Funcao h: 1.5620499351813308
+Funcao f (g + h): 64.46655174220167 
+
+Para a cidade inicial 9, o circuito de menor custo foi: [9, 4, 1, 8, 11, 5, 7, 6, 3, 2, 10, 0]
+----------------------------------------------------------
+
+Cidade inicial - cidade 11
+----------------------------------------------------------
+interacao 0 
+Cidade visitada: 0 
+Circuito atual: [11] 
+Funcao g: 4.024922359499621 
+Funcao h: 41.084029117085564
+Funcao f (g + h): 45.10895147658518 
+----------------------------------------------------------
+interacao 1 
+Cidade visitada: 1 
+Circuito atual: [11] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.64186708041093
+Funcao f (g + h): 41.66678943991055 
+----------------------------------------------------------
+interacao 2 
+Cidade visitada: 2 
+Circuito atual: [11] 
+Funcao g: 4.024922359499621 
+Funcao h: 38.81557730752441
+Funcao f (g + h): 42.84049966702403 
+----------------------------------------------------------
+interacao 3 
+Cidade visitada: 3 
+Circuito atual: [11] 
+Funcao g: 4.024922359499621 
+Funcao h: 35.4143116865037
+Funcao f (g + h): 39.43923404600332 
+----------------------------------------------------------
+interacao 4 
+Cidade visitada: 4 
+Circuito atual: [11] 
+Funcao g: 4.024922359499621 
+Funcao h: 34.91002168435017
+Funcao f (g + h): 38.93494404384979 
+----------------------------------------------------------
+interacao 5 
+Cidade visitada: 5 
+Circuito atual: [11] 
+Funcao g: 4.024922359499621 
+Funcao h: 40.35658396372965
+Funcao f (g + h): 44.38150632322927 
+----------------------------------------------------------
+interacao 6 
+Cidade visitada: 6 
+Circuito atual: [11] 
+Funcao g: 4.024922359499621 
+Funcao h: 44.39446912446219
+Funcao f (g + h): 48.41939148396181 
+----------------------------------------------------------
+interacao 7 
+Cidade visitada: 7 
+Circuito atual: [11] 
+Funcao g: 4.024922359499621 
+Funcao h: 38.45129502866001
+Funcao f (g + h): 42.47621738815963 
+----------------------------------------------------------
+interacao 8 
+Cidade visitada: 8 
+Circuito atual: [11] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.16165129515254
+Funcao f (g + h): 41.18657365465216 
+----------------------------------------------------------
+interacao 9 
+Cidade visitada: 9 
+Circuito atual: [11] 
+Funcao g: 4.024922359499621 
+Funcao h: 41.47907576765411
+Funcao f (g + h): 45.50399812715373 
+----------------------------------------------------------
+interacao 10 
+Cidade visitada: 10 
+Circuito atual: [11] 
+Funcao g: 4.024922359499621 
+Funcao h: 44.05974637161454
+Funcao f (g + h): 48.08466873111416 
+----------------------------------------------------------
+interacao 11 
+Cidade visitada: 0 
+Circuito atual: [11, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 39.17857710055233
+Funcao f (g + h): 50.58523367363618 
+----------------------------------------------------------
+interacao 12 
+Cidade visitada: 1 
+Circuito atual: [11, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 35.7364150638777
+Funcao f (g + h): 47.14307163696155 
+----------------------------------------------------------
+interacao 13 
+Cidade visitada: 2 
+Circuito atual: [11, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 36.910125290991175
+Funcao f (g + h): 48.316781864075026 
+----------------------------------------------------------
+interacao 14 
+Cidade visitada: 3 
+Circuito atual: [11, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 33.50885966997047
+Funcao f (g + h): 44.91551624305432 
+----------------------------------------------------------
+interacao 15 
+Cidade visitada: 5 
+Circuito atual: [11, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 38.451131947196416
+Funcao f (g + h): 49.857788520280266 
+----------------------------------------------------------
+interacao 16 
+Cidade visitada: 6 
+Circuito atual: [11, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 41.17567165909644
+Funcao f (g + h): 52.58232823218029 
+----------------------------------------------------------
+interacao 17 
+Cidade visitada: 7 
+Circuito atual: [11, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 36.54584301212678
+Funcao f (g + h): 47.95249958521063 
+----------------------------------------------------------
+interacao 18 
+Cidade visitada: 8 
+Circuito atual: [11, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 32.92507836022225
+Funcao f (g + h): 44.3317349333061 
+----------------------------------------------------------
+interacao 19 
+Cidade visitada: 9 
+Circuito atual: [11, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 39.57362375112088
+Funcao f (g + h): 50.98028032420473 
+----------------------------------------------------------
+interacao 20 
+Cidade visitada: 10 
+Circuito atual: [11, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 42.154294355081305
+Funcao f (g + h): 53.560950928165155 
+----------------------------------------------------------
+interacao 21 
+Cidade visitada: 0 
+Circuito atual: [11, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.44226340676865
+Funcao f (g + h): 43.76953635315455 
+----------------------------------------------------------
+interacao 22 
+Cidade visitada: 1 
+Circuito atual: [11, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.05119967013243
+Funcao f (g + h): 43.37847261651832 
+----------------------------------------------------------
+interacao 23 
+Cidade visitada: 2 
+Circuito atual: [11, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.796205548529162
+Funcao f (g + h): 45.12347849491506 
+----------------------------------------------------------
+interacao 24 
+Cidade visitada: 3 
+Circuito atual: [11, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 32.97901779594179
+Funcao f (g + h): 47.30629074232769 
+----------------------------------------------------------
+interacao 25 
+Cidade visitada: 5 
+Circuito atual: [11, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.714818253412734
+Funcao f (g + h): 43.042091199798634 
+----------------------------------------------------------
+interacao 26 
+Cidade visitada: 6 
+Circuito atual: [11, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 31.316656157900862
+Funcao f (g + h): 45.643929104286755 
+----------------------------------------------------------
+interacao 27 
+Cidade visitada: 7 
+Circuito atual: [11, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.03565062825327
+Funcao f (g + h): 41.36292357463917 
+----------------------------------------------------------
+interacao 28 
+Cidade visitada: 9 
+Circuito atual: [11, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.83731005733718
+Funcao f (g + h): 44.16458300372308 
+----------------------------------------------------------
+interacao 29 
+Cidade visitada: 10 
+Circuito atual: [11, 4, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 32.41798066129763
+Funcao f (g + h): 46.74525360768352 
+----------------------------------------------------------
+interacao 30 
+Cidade visitada: 0 
+Circuito atual: [11, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.888222480049162
+Funcao f (g + h): 50.83717503135155 
+----------------------------------------------------------
+interacao 31 
+Cidade visitada: 1 
+Circuito atual: [11, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.497158743412946
+Funcao f (g + h): 50.44611129471534 
+----------------------------------------------------------
+interacao 32 
+Cidade visitada: 2 
+Circuito atual: [11, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.395153514736233
+Funcao f (g + h): 50.34410606603862 
+----------------------------------------------------------
+interacao 33 
+Cidade visitada: 3 
+Circuito atual: [11, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 32.92465863954299
+Funcao f (g + h): 54.87361119084538 
+----------------------------------------------------------
+interacao 34 
+Cidade visitada: 5 
+Circuito atual: [11, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.66045909701393
+Funcao f (g + h): 50.60941164831632 
+----------------------------------------------------------
+interacao 35 
+Cidade visitada: 6 
+Circuito atual: [11, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 24.539712809398896
+Funcao f (g + h): 46.48866536070128 
+----------------------------------------------------------
+interacao 36 
+Cidade visitada: 9 
+Circuito atual: [11, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 29.9079275795478
+Funcao f (g + h): 51.856880130850186 
+----------------------------------------------------------
+interacao 37 
+Cidade visitada: 10 
+Circuito atual: [11, 4, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 25.51249600708049
+Funcao f (g + h): 47.46144855838288 
+----------------------------------------------------------
+interacao 38 
+Cidade visitada: 0 
+Circuito atual: [11, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 25.295644787237993
+Funcao f (g + h): 55.84052660767702 
+----------------------------------------------------------
+interacao 39 
+Cidade visitada: 1 
+Circuito atual: [11, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 24.904581050601774
+Funcao f (g + h): 55.44946287104081 
+----------------------------------------------------------
+interacao 40 
+Cidade visitada: 2 
+Circuito atual: [11, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 22.131393893640436
+Funcao f (g + h): 52.676275714079466 
+----------------------------------------------------------
+interacao 41 
+Cidade visitada: 3 
+Circuito atual: [11, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.837380612472288
+Funcao f (g + h): 52.38226243291132 
+----------------------------------------------------------
+interacao 42 
+Cidade visitada: 5 
+Circuito atual: [11, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 25.067881404202762
+Funcao f (g + h): 55.612763224641796 
+----------------------------------------------------------
+interacao 43 
+Cidade visitada: 9 
+Circuito atual: [11, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 26.31534988673663
+Funcao f (g + h): 56.86023170717566 
+----------------------------------------------------------
+interacao 44 
+Cidade visitada: 10 
+Circuito atual: [11, 4, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.919918314269314
+Funcao f (g + h): 52.46480013470834 
+----------------------------------------------------------
+interacao 45 
+Cidade visitada: 0 
+Circuito atual: [11, 4, 8, 7, 6, 3] 
+Funcao g: 38.39408560171519 
+Funcao h: 19.539130807964337
+Funcao f (g + h): 57.93321640967953 
+----------------------------------------------------------
+interacao 46 
+Cidade visitada: 1 
+Circuito atual: [11, 4, 8, 7, 6, 3] 
+Funcao g: 38.39408560171519 
+Funcao h: 19.06506450186026
+Funcao f (g + h): 57.45915010357545 
+----------------------------------------------------------
+interacao 47 
+Cidade visitada: 2 
+Circuito atual: [11, 4, 8, 7, 6, 3] 
+Funcao g: 38.39408560171519 
+Funcao h: 18.91676423917024
+Funcao f (g + h): 57.31084984088543 
+----------------------------------------------------------
+interacao 48 
+Cidade visitada: 5 
+Circuito atual: [11, 4, 8, 7, 6, 3] 
+Funcao g: 38.39408560171519 
+Funcao h: 19.311367424929102
+Funcao f (g + h): 57.70545302664429 
+----------------------------------------------------------
+interacao 49 
+Cidade visitada: 9 
+Circuito atual: [11, 4, 8, 7, 6, 3] 
+Funcao g: 38.39408560171519 
+Funcao h: 20.558835907462974
+Funcao f (g + h): 58.95292150917817 
+----------------------------------------------------------
+interacao 50 
+Cidade visitada: 10 
+Circuito atual: [11, 4, 8, 7, 6, 3] 
+Funcao g: 38.39408560171519 
+Funcao h: 19.512731325658887
+Funcao f (g + h): 57.90681692737408 
+----------------------------------------------------------
+interacao 51 
+Cidade visitada: 0 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 17.765333111946063
+Funcao f (g + h): 61.09905432775264 
+----------------------------------------------------------
+interacao 52 
+Cidade visitada: 1 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 17.79196624593981
+Funcao f (g + h): 61.12568746174639 
+----------------------------------------------------------
+interacao 53 
+Cidade visitada: 5 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 17.537569728910828
+Funcao f (g + h): 60.8712909447174 
+----------------------------------------------------------
+interacao 54 
+Cidade visitada: 9 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 18.785038211444697
+Funcao f (g + h): 62.11875942725128 
+----------------------------------------------------------
+interacao 55 
+Cidade visitada: 10 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 17.072855347711666
+Funcao f (g + h): 60.40657656351824 
+----------------------------------------------------------
+interacao 56 
+Cidade visitada: 0 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2, 10] 
+Funcao g: 47.57636190292586 
+Funcao h: 13.410888662991553
+Funcao f (g + h): 60.987250565917414 
+----------------------------------------------------------
+interacao 57 
+Cidade visitada: 1 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2, 10] 
+Funcao g: 47.57636190292586 
+Funcao h: 14.785398737327958
+Funcao f (g + h): 62.36176064025382 
+----------------------------------------------------------
+interacao 58 
+Cidade visitada: 5 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2, 10] 
+Funcao g: 47.57636190292586 
+Funcao h: 10.448679994665806
+Funcao f (g + h): 58.02504189759166 
+----------------------------------------------------------
+interacao 59 
+Cidade visitada: 9 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2, 10] 
+Funcao g: 47.57636190292586 
+Funcao h: 14.43059376249019
+Funcao f (g + h): 62.00695566541605 
+----------------------------------------------------------
+interacao 60 
+Cidade visitada: 0 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2, 10, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 8.709002577875502
+Funcao f (g + h): 61.31030229136181 
+----------------------------------------------------------
+interacao 61 
+Cidade visitada: 1 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2, 10, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 10.379675081209655
+Funcao f (g + h): 62.98097479469596 
+----------------------------------------------------------
+interacao 62 
+Cidade visitada: 9 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2, 10, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 8.094959535477843
+Funcao f (g + h): 60.69625924896415 
+----------------------------------------------------------
+interacao 63 
+Cidade visitada: 0 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2, 10, 5, 9] 
+Funcao g: 56.94295838270479 
+Funcao h: 6.532909600296511
+Funcao f (g + h): 63.4758679830013 
+----------------------------------------------------------
+interacao 64 
+Cidade visitada: 1 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2, 10, 5, 9] 
+Funcao g: 56.94295838270479 
+Funcao h: 7.496233351041578
+Funcao f (g + h): 64.43919173374637 
+----------------------------------------------------------
+interacao 65 
+Cidade visitada: 1 
+Circuito atual: [11, 4, 8, 7, 6, 3, 2, 10, 5, 9, 0] 
+Funcao g: 62.90450180702034 
+Funcao h: 2.5079872407968904
+Funcao f (g + h): 65.41248904781723 
+
+Para a cidade inicial 11, o circuito de menor custo foi: [11, 4, 8, 7, 6, 3, 2, 10, 5, 9, 0, 1]
+----------------------------------------------------------
+
+Cidade inicial - cidade 4
+----------------------------------------------------------
+interacao 0 
+Cidade visitada: 0 
+Circuito atual: [4] 
+Funcao g: 4.024922359499621 
+Funcao h: 38.55390551777351
+Funcao f (g + h): 42.57882787727313 
+----------------------------------------------------------
+interacao 1 
+Cidade visitada: 1 
+Circuito atual: [4] 
+Funcao g: 4.024922359499621 
+Funcao h: 31.984420681307586
+Funcao f (g + h): 36.00934304080721 
+----------------------------------------------------------
+interacao 2 
+Cidade visitada: 2 
+Circuito atual: [4] 
+Funcao g: 4.024922359499621 
+Funcao h: 40.030549466945914
+Funcao f (g + h): 44.05547182644553 
+----------------------------------------------------------
+interacao 3 
+Cidade visitada: 3 
+Circuito atual: [4] 
+Funcao g: 4.024922359499621 
+Funcao h: 35.08466289810046
+Funcao f (g + h): 39.10958525760008 
+----------------------------------------------------------
+interacao 4 
+Cidade visitada: 5 
+Circuito atual: [4] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.82646036441759
+Funcao f (g + h): 41.85138272391721 
+----------------------------------------------------------
+interacao 5 
+Cidade visitada: 6 
+Circuito atual: [4] 
+Funcao g: 4.024922359499621 
+Funcao h: 40.55100007631761
+Funcao f (g + h): 44.575922435817226 
+----------------------------------------------------------
+interacao 6 
+Cidade visitada: 7 
+Circuito atual: [4] 
+Funcao g: 4.024922359499621 
+Funcao h: 36.147292739258134
+Funcao f (g + h): 40.17221509875775 
+----------------------------------------------------------
+interacao 7 
+Cidade visitada: 8 
+Circuito atual: [4] 
+Funcao g: 4.024922359499621 
+Funcao h: 32.52652808735361
+Funcao f (g + h): 36.55145044685323 
+----------------------------------------------------------
+interacao 8 
+Cidade visitada: 9 
+Circuito atual: [4] 
+Funcao g: 4.024922359499621 
+Funcao h: 38.948952168342046
+Funcao f (g + h): 42.973874527841666 
+----------------------------------------------------------
+interacao 9 
+Cidade visitada: 10 
+Circuito atual: [4] 
+Funcao g: 4.024922359499621 
+Funcao h: 41.52962277230249
+Funcao f (g + h): 45.55454513180211 
+----------------------------------------------------------
+interacao 10 
+Cidade visitada: 11 
+Circuito atual: [4] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.40623979638788
+Funcao f (g + h): 41.4311621558875 
+----------------------------------------------------------
+interacao 11 
+Cidade visitada: 0 
+Circuito atual: [4, 1] 
+Funcao g: 11.40665657308385 
+Funcao h: 34.13791942163767
+Funcao f (g + h): 45.54457599472152 
+----------------------------------------------------------
+interacao 12 
+Cidade visitada: 2 
+Circuito atual: [4, 1] 
+Funcao g: 11.40665657308385 
+Funcao h: 35.116577542840915
+Funcao f (g + h): 46.523234115924765 
+----------------------------------------------------------
+interacao 13 
+Cidade visitada: 3 
+Circuito atual: [4, 1] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.170690973995473
+Funcao f (g + h): 41.57734754707933 
+----------------------------------------------------------
+interacao 14 
+Cidade visitada: 5 
+Circuito atual: [4, 1] 
+Funcao g: 11.40665657308385 
+Funcao h: 33.41047426828175
+Funcao f (g + h): 44.8171308413656 
+----------------------------------------------------------
+interacao 15 
+Cidade visitada: 6 
+Circuito atual: [4, 1] 
+Funcao g: 11.40665657308385 
+Funcao h: 36.13501398018177
+Funcao f (g + h): 47.54167055326562 
+----------------------------------------------------------
+interacao 16 
+Cidade visitada: 7 
+Circuito atual: [4, 1] 
+Funcao g: 11.40665657308385 
+Funcao h: 33.085694130503576
+Funcao f (g + h): 44.49235070358743 
+----------------------------------------------------------
+interacao 17 
+Cidade visitada: 8 
+Circuito atual: [4, 1] 
+Funcao g: 11.40665657308385 
+Funcao h: 29.46492947859905
+Funcao f (g + h): 40.8715860516829 
+----------------------------------------------------------
+interacao 18 
+Cidade visitada: 9 
+Circuito atual: [4, 1] 
+Funcao g: 11.40665657308385 
+Funcao h: 36.29853988317883
+Funcao f (g + h): 47.705196456262684 
+----------------------------------------------------------
+interacao 19 
+Cidade visitada: 10 
+Circuito atual: [4, 1] 
+Funcao g: 11.40665657308385 
+Funcao h: 37.11363667616664
+Funcao f (g + h): 48.52029324925049 
+----------------------------------------------------------
+interacao 20 
+Cidade visitada: 11 
+Circuito atual: [4, 1] 
+Funcao g: 11.40665657308385 
+Funcao h: 29.476433440510693
+Funcao f (g + h): 40.88309001359454 
+----------------------------------------------------------
+interacao 21 
+Cidade visitada: 0 
+Circuito atual: [4, 1, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.938321266345017
+Funcao f (g + h): 42.26559421273092 
+----------------------------------------------------------
+interacao 22 
+Cidade visitada: 2 
+Circuito atual: [4, 1, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.79427758013638
+Funcao f (g + h): 43.12155052652228 
+----------------------------------------------------------
+interacao 23 
+Cidade visitada: 3 
+Circuito atual: [4, 1, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.696019589111373
+Funcao f (g + h): 43.02329253549727 
+----------------------------------------------------------
+interacao 24 
+Cidade visitada: 5 
+Circuito atual: [4, 1, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.210876112989098
+Funcao f (g + h): 41.538149059374994 
+----------------------------------------------------------
+interacao 25 
+Cidade visitada: 6 
+Circuito atual: [4, 1, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.81271401747723
+Funcao f (g + h): 44.13998696386312 
+----------------------------------------------------------
+interacao 26 
+Cidade visitada: 7 
+Circuito atual: [4, 1, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 26.88609597521092
+Funcao f (g + h): 41.21336892159682 
+----------------------------------------------------------
+interacao 27 
+Cidade visitada: 9 
+Circuito atual: [4, 1, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.09894172788617
+Funcao f (g + h): 44.42621467427207 
+----------------------------------------------------------
+interacao 28 
+Cidade visitada: 10 
+Circuito atual: [4, 1, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.91403852087399
+Funcao f (g + h): 45.24131146725989 
+----------------------------------------------------------
+interacao 29 
+Cidade visitada: 11 
+Circuito atual: [4, 1, 8] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.809634942874364
+Funcao f (g + h): 42.13690788926026 
+----------------------------------------------------------
+interacao 30 
+Cidade visitada: 0 
+Circuito atual: [4, 1, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 27.38428033962553
+Funcao f (g + h): 49.33323289092792 
+----------------------------------------------------------
+interacao 31 
+Cidade visitada: 2 
+Circuito atual: [4, 1, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 30.658526941814138
+Funcao f (g + h): 52.60747949311653 
+----------------------------------------------------------
+interacao 32 
+Cidade visitada: 3 
+Circuito atual: [4, 1, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.641660432712573
+Funcao f (g + h): 50.59061298401496 
+----------------------------------------------------------
+interacao 33 
+Cidade visitada: 5 
+Circuito atual: [4, 1, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 25.718741982298933
+Funcao f (g + h): 47.66769453360132 
+----------------------------------------------------------
+interacao 34 
+Cidade visitada: 6 
+Circuito atual: [4, 1, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 24.39015815635655
+Funcao f (g + h): 46.33911070765893 
+----------------------------------------------------------
+interacao 35 
+Cidade visitada: 9 
+Circuito atual: [4, 1, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.403985439124167
+Funcao f (g + h): 50.352937990426554 
+----------------------------------------------------------
+interacao 36 
+Cidade visitada: 10 
+Circuito atual: [4, 1, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 25.362941354038142
+Funcao f (g + h): 47.311893905340526 
+----------------------------------------------------------
+interacao 37 
+Cidade visitada: 11 
+Circuito atual: [4, 1, 8, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 27.25559401615488
+Funcao f (g + h): 49.20454656745727 
+----------------------------------------------------------
+interacao 38 
+Cidade visitada: 0 
+Circuito atual: [4, 1, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 23.79170264681436
+Funcao f (g + h): 54.33658446725339 
+----------------------------------------------------------
+interacao 39 
+Cidade visitada: 2 
+Circuito atual: [4, 1, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.981839240598088
+Funcao f (g + h): 52.52672106103712 
+----------------------------------------------------------
+interacao 40 
+Cidade visitada: 3 
+Circuito atual: [4, 1, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 22.099012283021278
+Funcao f (g + h): 52.64389410346031 
+----------------------------------------------------------
+interacao 41 
+Cidade visitada: 5 
+Circuito atual: [4, 1, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 25.37549462373691
+Funcao f (g + h): 55.92037644417594 
+----------------------------------------------------------
+interacao 42 
+Cidade visitada: 9 
+Circuito atual: [4, 1, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 24.811407746312998
+Funcao f (g + h): 55.356289566752025 
+----------------------------------------------------------
+interacao 43 
+Cidade visitada: 10 
+Circuito atual: [4, 1, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.770363661226966
+Funcao f (g + h): 52.315245481666 
+----------------------------------------------------------
+interacao 44 
+Cidade visitada: 11 
+Circuito atual: [4, 1, 8, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 23.663016323343708
+Funcao f (g + h): 54.20789814378274 
+----------------------------------------------------------
+interacao 45 
+Cidade visitada: 0 
+Circuito atual: [4, 1, 8, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 23.605134986943906
+Funcao f (g + h): 61.9992205886591 
+----------------------------------------------------------
+interacao 46 
+Cidade visitada: 2 
+Circuito atual: [4, 1, 8, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 19.92645476976839
+Funcao f (g + h): 58.32054037148358 
+----------------------------------------------------------
+interacao 47 
+Cidade visitada: 3 
+Circuito atual: [4, 1, 8, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 20.85107047805134
+Funcao f (g + h): 59.24515607976653 
+----------------------------------------------------------
+interacao 48 
+Cidade visitada: 5 
+Circuito atual: [4, 1, 8, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 23.320110152907212
+Funcao f (g + h): 61.7141957546224 
+----------------------------------------------------------
+interacao 49 
+Cidade visitada: 9 
+Circuito atual: [4, 1, 8, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 24.62484008644254
+Funcao f (g + h): 63.01892568815773 
+----------------------------------------------------------
+interacao 50 
+Cidade visitada: 11 
+Circuito atual: [4, 1, 8, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 23.476448663473253
+Funcao f (g + h): 61.87053426518844 
+----------------------------------------------------------
+interacao 51 
+Cidade visitada: 0 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 21.844160369141278
+Funcao f (g + h): 65.17788158494785 
+----------------------------------------------------------
+interacao 52 
+Cidade visitada: 3 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 17.005838396466345
+Funcao f (g + h): 60.33955961227292 
+----------------------------------------------------------
+interacao 53 
+Cidade visitada: 5 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 23.318393955044634
+Funcao f (g + h): 66.6521151708512 
+----------------------------------------------------------
+interacao 54 
+Cidade visitada: 9 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 22.863865468639915
+Funcao f (g + h): 66.19758668444649 
+----------------------------------------------------------
+interacao 55 
+Cidade visitada: 11 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 21.71547404567063
+Funcao f (g + h): 65.04919526147721 
+----------------------------------------------------------
+interacao 56 
+Cidade visitada: 0 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 13.672520333540543
+Funcao f (g + h): 61.2488822364664 
+----------------------------------------------------------
+interacao 57 
+Cidade visitada: 5 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 10.299125341623458
+Funcao f (g + h): 57.87548724454932 
+----------------------------------------------------------
+interacao 58 
+Cidade visitada: 9 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 14.69222543303918
+Funcao f (g + h): 62.26858733596504 
+----------------------------------------------------------
+interacao 59 
+Cidade visitada: 11 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 15.983010655047893
+Funcao f (g + h): 63.55937255797375 
+----------------------------------------------------------
+interacao 60 
+Cidade visitada: 0 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2, 3, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 9.266796677422242
+Funcao f (g + h): 61.86809639090855 
+----------------------------------------------------------
+interacao 61 
+Cidade visitada: 9 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2, 3, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 7.945404882435494
+Funcao f (g + h): 60.5467045959218 
+----------------------------------------------------------
+interacao 62 
+Cidade visitada: 11 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2, 3, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 12.04264049027331
+Funcao f (g + h): 64.64394020375961 
+----------------------------------------------------------
+interacao 63 
+Cidade visitada: 0 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2, 3, 5, 9] 
+Funcao g: 56.94295838270479 
+Funcao h: 6.383354947254164
+Funcao f (g + h): 63.32631332995895 
+----------------------------------------------------------
+interacao 64 
+Cidade visitada: 11 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2, 3, 5, 9] 
+Funcao g: 56.94295838270479 
+Funcao h: 8.938485764676614
+Funcao f (g + h): 65.8814441473814 
+----------------------------------------------------------
+interacao 65 
+Cidade visitada: 11 
+Circuito atual: [4, 1, 8, 7, 6, 10, 2, 3, 5, 9, 0] 
+Funcao g: 62.90450180702034 
+Funcao h: 2.912043955712207
+Funcao f (g + h): 65.81654576273255 
+
+Para a cidade inicial 4, o circuito de menor custo foi: [4, 1, 8, 7, 6, 10, 2, 3, 5, 9, 0, 11]
+----------------------------------------------------------
+
+Cidade inicial - cidade 8
+----------------------------------------------------------
+interacao 0 
+Cidade visitada: 0 
+Circuito atual: [8] 
+Funcao g: 4.024922359499621 
+Funcao h: 38.96003144863143
+Funcao f (g + h): 42.98495380813105 
+----------------------------------------------------------
+interacao 1 
+Cidade visitada: 1 
+Circuito atual: [8] 
+Funcao g: 4.024922359499621 
+Funcao h: 34.72166753056256
+Funcao f (g + h): 38.74658989006218 
+----------------------------------------------------------
+interacao 2 
+Cidade visitada: 2 
+Circuito atual: [8] 
+Funcao g: 4.024922359499621 
+Funcao h: 33.66767634177728
+Funcao f (g + h): 37.6925987012769 
+----------------------------------------------------------
+interacao 3 
+Cidade visitada: 3 
+Circuito atual: [8] 
+Funcao g: 4.024922359499621 
+Funcao h: 34.882763799584794
+Funcao f (g + h): 38.90768615908441 
+----------------------------------------------------------
+interacao 4 
+Cidade visitada: 4 
+Circuito atual: [8] 
+Funcao g: 4.024922359499621 
+Funcao h: 33.012145325806216
+Funcao f (g + h): 37.037067685305836 
+----------------------------------------------------------
+interacao 5 
+Cidade visitada: 5 
+Circuito atual: [8] 
+Funcao g: 4.024922359499621 
+Funcao h: 38.23258629527552
+Funcao f (g + h): 42.25750865477514 
+----------------------------------------------------------
+interacao 6 
+Cidade visitada: 6 
+Circuito atual: [8] 
+Funcao g: 4.024922359499621 
+Funcao h: 35.73274789897372
+Funcao f (g + h): 39.75767025847334 
+----------------------------------------------------------
+interacao 7 
+Cidade visitada: 7 
+Circuito atual: [8] 
+Funcao g: 4.024922359499621 
+Funcao h: 36.55341867011605
+Funcao f (g + h): 40.57834102961567 
+----------------------------------------------------------
+interacao 8 
+Cidade visitada: 9 
+Circuito atual: [8] 
+Funcao g: 4.024922359499621 
+Funcao h: 39.355078099199964
+Funcao f (g + h): 43.380000458699584 
+----------------------------------------------------------
+interacao 9 
+Cidade visitada: 10 
+Circuito atual: [8] 
+Funcao g: 4.024922359499621 
+Funcao h: 41.93574870316041
+Funcao f (g + h): 45.960671062660026 
+----------------------------------------------------------
+interacao 10 
+Cidade visitada: 11 
+Circuito atual: [8] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.4769576377795
+Funcao f (g + h): 41.50187999727912 
+----------------------------------------------------------
+interacao 11 
+Cidade visitada: 0 
+Circuito atual: [8, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 31.634264551429702
+Funcao f (g + h): 43.04092112451355 
+----------------------------------------------------------
+interacao 12 
+Cidade visitada: 1 
+Circuito atual: [8, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 29.546490002136345
+Funcao f (g + h): 40.953146575220195 
+----------------------------------------------------------
+interacao 13 
+Cidade visitada: 2 
+Circuito atual: [8, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 32.49022086522106
+Funcao f (g + h): 43.89687743830491 
+----------------------------------------------------------
+interacao 14 
+Cidade visitada: 3 
+Circuito atual: [8, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 33.689482820811044
+Funcao f (g + h): 45.096139393894894 
+----------------------------------------------------------
+interacao 15 
+Cidade visitada: 5 
+Circuito atual: [8, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.90681939807378
+Funcao f (g + h): 42.31347597115763 
+----------------------------------------------------------
+interacao 16 
+Cidade visitada: 6 
+Circuito atual: [8, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 33.508657302561915
+Funcao f (g + h): 44.915313875645765 
+----------------------------------------------------------
+interacao 17 
+Cidade visitada: 7 
+Circuito atual: [8, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.582039260295602
+Funcao f (g + h): 41.98869583337945 
+----------------------------------------------------------
+interacao 18 
+Cidade visitada: 9 
+Circuito atual: [8, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 33.79488501297085
+Funcao f (g + h): 45.2015415860547 
+----------------------------------------------------------
+interacao 19 
+Cidade visitada: 10 
+Circuito atual: [8, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 34.609981805958675
+Funcao f (g + h): 46.016638379042526 
+----------------------------------------------------------
+interacao 20 
+Cidade visitada: 11 
+Circuito atual: [8, 4] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.10010137009401
+Funcao f (g + h): 41.50675794317786 
+----------------------------------------------------------
+interacao 21 
+Cidade visitada: 0 
+Circuito atual: [8, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 26.681571846357496
+Funcao f (g + h): 41.00884479274339 
+----------------------------------------------------------
+interacao 22 
+Cidade visitada: 2 
+Circuito atual: [8, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.53752816014886
+Funcao f (g + h): 41.864801106534756 
+----------------------------------------------------------
+interacao 23 
+Cidade visitada: 3 
+Circuito atual: [8, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.77551089670606
+Funcao f (g + h): 43.102783843091956 
+----------------------------------------------------------
+interacao 24 
+Cidade visitada: 5 
+Circuito atual: [8, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 25.954126693001577
+Funcao f (g + h): 40.28139963938747 
+----------------------------------------------------------
+interacao 25 
+Cidade visitada: 6 
+Circuito atual: [8, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.55596459748971
+Funcao f (g + h): 42.88323754387561 
+----------------------------------------------------------
+interacao 26 
+Cidade visitada: 7 
+Circuito atual: [8, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 25.6293465552234
+Funcao f (g + h): 39.956619501609296 
+----------------------------------------------------------
+interacao 27 
+Cidade visitada: 9 
+Circuito atual: [8, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.84219230789865
+Funcao f (g + h): 43.169465254284546 
+----------------------------------------------------------
+interacao 28 
+Cidade visitada: 10 
+Circuito atual: [8, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 29.65728910088647
+Funcao f (g + h): 43.98456204727236 
+----------------------------------------------------------
+interacao 29 
+Cidade visitada: 11 
+Circuito atual: [8, 4, 1] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.03850276133945
+Funcao f (g + h): 41.36577570772535 
+----------------------------------------------------------
+interacao 30 
+Cidade visitada: 0 
+Circuito atual: [8, 4, 1, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 26.12753091963801
+Funcao f (g + h): 48.076483470940396 
+----------------------------------------------------------
+interacao 31 
+Cidade visitada: 2 
+Circuito atual: [8, 4, 1, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.726680505295953
+Funcao f (g + h): 50.67563305659834 
+----------------------------------------------------------
+interacao 32 
+Cidade visitada: 3 
+Circuito atual: [8, 4, 1, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.72115174030726
+Funcao f (g + h): 50.67010429160965 
+----------------------------------------------------------
+interacao 33 
+Cidade visitada: 5 
+Circuito atual: [8, 4, 1, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 25.79823328989362
+Funcao f (g + h): 47.74718584119601 
+----------------------------------------------------------
+interacao 34 
+Cidade visitada: 6 
+Circuito atual: [8, 4, 1, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 23.133408736369027
+Funcao f (g + h): 45.08236128767142 
+----------------------------------------------------------
+interacao 35 
+Cidade visitada: 9 
+Circuito atual: [8, 4, 1, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 27.147236019136646
+Funcao f (g + h): 49.09618857043903 
+----------------------------------------------------------
+interacao 36 
+Cidade visitada: 10 
+Circuito atual: [8, 4, 1, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 24.10619193405062
+Funcao f (g + h): 46.05514448535301 
+----------------------------------------------------------
+interacao 37 
+Cidade visitada: 11 
+Circuito atual: [8, 4, 1, 7] 
+Funcao g: 21.948952551302387 
+Funcao h: 26.48446183461997
+Funcao f (g + h): 48.43341438592236 
+----------------------------------------------------------
+interacao 38 
+Cidade visitada: 0 
+Circuito atual: [8, 4, 1, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 22.53495322682684
+Funcao f (g + h): 53.079835047265874 
+----------------------------------------------------------
+interacao 39 
+Cidade visitada: 2 
+Circuito atual: [8, 4, 1, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 20.725089820610567
+Funcao f (g + h): 51.269971641049594 
+----------------------------------------------------------
+interacao 40 
+Cidade visitada: 3 
+Circuito atual: [8, 4, 1, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 20.842262863033756
+Funcao f (g + h): 51.38714468347278 
+----------------------------------------------------------
+interacao 41 
+Cidade visitada: 5 
+Circuito atual: [8, 4, 1, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 24.604362442201996
+Funcao f (g + h): 55.14924426264103 
+----------------------------------------------------------
+interacao 42 
+Cidade visitada: 9 
+Circuito atual: [8, 4, 1, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 23.554658326325477
+Funcao f (g + h): 54.09954014676451 
+----------------------------------------------------------
+interacao 43 
+Cidade visitada: 10 
+Circuito atual: [8, 4, 1, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 20.513614241239445
+Funcao f (g + h): 51.058496061678476 
+----------------------------------------------------------
+interacao 44 
+Cidade visitada: 11 
+Circuito atual: [8, 4, 1, 7, 6] 
+Funcao g: 30.54488182043903 
+Funcao h: 22.891884141808795
+Funcao f (g + h): 53.436765962247826 
+----------------------------------------------------------
+interacao 45 
+Cidade visitada: 0 
+Circuito atual: [8, 4, 1, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 22.348385566956384
+Funcao f (g + h): 60.74247116867157 
+----------------------------------------------------------
+interacao 46 
+Cidade visitada: 2 
+Circuito atual: [8, 4, 1, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 18.66970534978087
+Funcao f (g + h): 57.06379095149606 
+----------------------------------------------------------
+interacao 47 
+Cidade visitada: 3 
+Circuito atual: [8, 4, 1, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 19.59432105806382
+Funcao f (g + h): 57.98840665977901 
+----------------------------------------------------------
+interacao 48 
+Cidade visitada: 5 
+Circuito atual: [8, 4, 1, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 22.548977971372302
+Funcao f (g + h): 60.94306357308749 
+----------------------------------------------------------
+interacao 49 
+Cidade visitada: 9 
+Circuito atual: [8, 4, 1, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 23.368090666455018
+Funcao f (g + h): 61.76217626817021 
+----------------------------------------------------------
+interacao 50 
+Cidade visitada: 11 
+Circuito atual: [8, 4, 1, 7, 6, 10] 
+Funcao g: 38.39408560171519 
+Funcao h: 22.70531648193834
+Funcao f (g + h): 61.09940208365353 
+----------------------------------------------------------
+interacao 51 
+Cidade visitada: 0 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 20.587410949153757
+Funcao f (g + h): 63.92113216496033 
+----------------------------------------------------------
+interacao 52 
+Cidade visitada: 3 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 15.749088976478824
+Funcao f (g + h): 59.0828101922854 
+----------------------------------------------------------
+interacao 53 
+Cidade visitada: 5 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 22.547261773509724
+Funcao f (g + h): 65.8809829893163 
+----------------------------------------------------------
+interacao 54 
+Cidade visitada: 9 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 21.607116048652394
+Funcao f (g + h): 64.94083726445896 
+----------------------------------------------------------
+interacao 55 
+Cidade visitada: 11 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2] 
+Funcao g: 43.33372121580658 
+Funcao h: 20.944341864135716
+Funcao f (g + h): 64.27806307994229 
+----------------------------------------------------------
+interacao 56 
+Cidade visitada: 0 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 12.415770913553022
+Funcao f (g + h): 59.992132816478886 
+----------------------------------------------------------
+interacao 57 
+Cidade visitada: 5 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 9.042375921635937
+Funcao f (g + h): 56.6187378245618 
+----------------------------------------------------------
+interacao 58 
+Cidade visitada: 9 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 13.435476013051659
+Funcao f (g + h): 61.01183791597752 
+----------------------------------------------------------
+interacao 59 
+Cidade visitada: 11 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2, 3] 
+Funcao g: 47.57636190292586 
+Funcao h: 14.051164218529706
+Funcao f (g + h): 61.62752612145557 
+----------------------------------------------------------
+interacao 60 
+Cidade visitada: 0 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2, 3, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 8.010047257434719
+Funcao f (g + h): 60.611346970921026 
+----------------------------------------------------------
+interacao 61 
+Cidade visitada: 9 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2, 3, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 6.688655462447972
+Funcao f (g + h): 59.28995517593428 
+----------------------------------------------------------
+interacao 62 
+Cidade visitada: 11 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2, 3, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 10.058298737283733
+Funcao f (g + h): 62.65959845077004 
+----------------------------------------------------------
+interacao 63 
+Cidade visitada: 0 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2, 3, 5, 9] 
+Funcao g: 56.94295838270479 
+Funcao h: 5.1266055272666415
+Funcao f (g + h): 62.06956390997143 
+----------------------------------------------------------
+interacao 64 
+Cidade visitada: 11 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2, 3, 5, 9] 
+Funcao g: 56.94295838270479 
+Funcao h: 6.954125944995557
+Funcao f (g + h): 63.89708432770034 
+----------------------------------------------------------
+interacao 65 
+Cidade visitada: 11 
+Circuito atual: [8, 4, 1, 7, 6, 10, 2, 3, 5, 9, 0] 
+Funcao g: 62.90450180702034 
+Funcao h: 1.6552945357246849
+Funcao f (g + h): 64.55979634274502 
+
+Para a cidade inicial 8, o circuito de menor custo foi: [8, 4, 1, 7, 6, 10, 2, 3, 5, 9, 0, 11]
+----------------------------------------------------------
+
+Cidade inicial - cidade 10
+----------------------------------------------------------
+interacao 0 
+Cidade visitada: 0 
+Circuito atual: [10] 
+Funcao g: 4.024922359499621 
+Funcao h: 35.32300047117914
+Funcao f (g + h): 39.34792283067876 
+----------------------------------------------------------
+interacao 1 
+Cidade visitada: 1 
+Circuito atual: [10] 
+Funcao g: 4.024922359499621 
+Funcao h: 31.08463655311028
+Funcao f (g + h): 35.1095589126099 
+----------------------------------------------------------
+interacao 2 
+Cidade visitada: 2 
+Circuito atual: [10] 
+Funcao g: 4.024922359499621 
+Funcao h: 31.058652629043625
+Funcao f (g + h): 35.08357498854325 
+----------------------------------------------------------
+interacao 3 
+Cidade visitada: 3 
+Circuito atual: [10] 
+Funcao g: 4.024922359499621 
+Funcao h: 27.721675951177506
+Funcao f (g + h): 31.74659831067713 
+----------------------------------------------------------
+interacao 4 
+Cidade visitada: 4 
+Circuito atual: [10] 
+Funcao g: 4.024922359499621 
+Funcao h: 29.375114348353932
+Funcao f (g + h): 33.40003670785355 
+----------------------------------------------------------
+interacao 5 
+Cidade visitada: 5 
+Circuito atual: [10] 
+Funcao g: 4.024922359499621 
+Funcao h: 34.595555317823234
+Funcao f (g + h): 38.62047767732285 
+----------------------------------------------------------
+interacao 6 
+Cidade visitada: 6 
+Circuito atual: [10] 
+Funcao g: 4.024922359499621 
+Funcao h: 38.1525449397885
+Funcao f (g + h): 42.17746729928812 
+----------------------------------------------------------
+interacao 7 
+Cidade visitada: 7 
+Circuito atual: [10] 
+Funcao g: 4.024922359499621 
+Funcao h: 37.422332515419605
+Funcao f (g + h): 41.447254874919224 
+----------------------------------------------------------
+interacao 8 
+Cidade visitada: 8 
+Circuito atual: [10] 
+Funcao g: 4.024922359499621 
+Funcao h: 34.7670272919115
+Funcao f (g + h): 38.79194965141112 
+----------------------------------------------------------
+interacao 9 
+Cidade visitada: 9 
+Circuito atual: [10] 
+Funcao g: 4.024922359499621 
+Funcao h: 35.71804712174768
+Funcao f (g + h): 39.7429694812473 
+----------------------------------------------------------
+interacao 10 
+Cidade visitada: 11 
+Circuito atual: [10] 
+Funcao g: 4.024922359499621 
+Funcao h: 43.11403458822059
+Funcao f (g + h): 47.13895694772021 
+----------------------------------------------------------
+interacao 11 
+Cidade visitada: 0 
+Circuito atual: [10, 3] 
+Funcao g: 11.40665657308385 
+Funcao h: 29.425122107974673
+Funcao f (g + h): 40.83177868105852 
+----------------------------------------------------------
+interacao 12 
+Cidade visitada: 1 
+Circuito atual: [10, 3] 
+Funcao g: 11.40665657308385 
+Funcao h: 25.135561613349573
+Funcao f (g + h): 36.54221818643342 
+----------------------------------------------------------
+interacao 13 
+Cidade visitada: 2 
+Circuito atual: [10, 3] 
+Funcao g: 11.40665657308385 
+Funcao h: 24.80105957787546
+Funcao f (g + h): 36.207716150959314 
+----------------------------------------------------------
+interacao 14 
+Cidade visitada: 4 
+Circuito atual: [10, 3] 
+Funcao g: 11.40665657308385 
+Funcao h: 26.39020557041987
+Funcao f (g + h): 37.796862143503716 
+----------------------------------------------------------
+interacao 15 
+Cidade visitada: 5 
+Circuito atual: [10, 3] 
+Funcao g: 11.40665657308385 
+Funcao h: 28.697676954618757
+Funcao f (g + h): 40.10433352770261 
+----------------------------------------------------------
+interacao 16 
+Cidade visitada: 6 
+Circuito atual: [10, 3] 
+Funcao g: 11.40665657308385 
+Funcao h: 33.71858350592882
+Funcao f (g + h): 45.12524007901267 
+----------------------------------------------------------
+interacao 17 
+Cidade visitada: 7 
+Circuito atual: [10, 3] 
+Funcao g: 11.40665657308385 
+Funcao h: 31.52445415221513
+Funcao f (g + h): 42.93111072529898 
+----------------------------------------------------------
+interacao 18 
+Cidade visitada: 8 
+Circuito atual: [10, 3] 
+Funcao g: 11.40665657308385 
+Funcao h: 30.333065858051828
+Funcao f (g + h): 41.739722431135675 
+----------------------------------------------------------
+interacao 19 
+Cidade visitada: 9 
+Circuito atual: [10, 3] 
+Funcao g: 11.40665657308385 
+Funcao h: 29.768972181986975
+Funcao f (g + h): 41.175628755070825 
+----------------------------------------------------------
+interacao 20 
+Cidade visitada: 11 
+Circuito atual: [10, 3] 
+Funcao g: 11.40665657308385 
+Funcao h: 33.176820741647234
+Funcao f (g + h): 44.583477314731084 
+----------------------------------------------------------
+interacao 21 
+Cidade visitada: 0 
+Circuito atual: [10, 3, 2] 
+Funcao g: 14.327272946385897 
+Funcao h: 28.68827351076765
+Funcao f (g + h): 43.01554645715355 
+----------------------------------------------------------
+interacao 22 
+Cidade visitada: 1 
+Circuito atual: [10, 3, 2] 
+Funcao g: 14.327272946385897 
+Funcao h: 24.946584209935413
+Funcao f (g + h): 39.27385715632131 
+----------------------------------------------------------
+interacao 23 
+Cidade visitada: 4 
+Circuito atual: [10, 3, 2] 
+Funcao g: 14.327272946385897 
+Funcao h: 26.201228167005706
+Funcao f (g + h): 40.5285011133916 
+----------------------------------------------------------
+interacao 24 
+Cidade visitada: 5 
+Circuito atual: [10, 3, 2] 
+Funcao g: 14.327272946385897 
+Funcao h: 27.960828357411735
+Funcao f (g + h): 42.28810130379763 
+----------------------------------------------------------
+interacao 25 
+Cidade visitada: 6 
+Circuito atual: [10, 3, 2] 
+Funcao g: 14.327272946385897 
+Funcao h: 22.392740662116996
+Funcao f (g + h): 36.720013608502896 
+----------------------------------------------------------
+interacao 26 
+Cidade visitada: 7 
+Circuito atual: [10, 3, 2] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.382270502910906
+Funcao f (g + h): 44.7095434492968 
+----------------------------------------------------------
+interacao 27 
+Cidade visitada: 8 
+Circuito atual: [10, 3, 2] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.144088454637668
+Funcao f (g + h): 44.471361401023564 
+----------------------------------------------------------
+interacao 28 
+Cidade visitada: 9 
+Circuito atual: [10, 3, 2] 
+Funcao g: 14.327272946385897 
+Funcao h: 30.94916641702499
+Funcao f (g + h): 45.27643936341089 
+----------------------------------------------------------
+interacao 29 
+Cidade visitada: 11 
+Circuito atual: [10, 3, 2] 
+Funcao g: 14.327272946385897 
+Funcao h: 32.98784333823308
+Funcao f (g + h): 47.31511628461897 
+----------------------------------------------------------
+interacao 30 
+Cidade visitada: 0 
+Circuito atual: [10, 3, 2, 6] 
+Funcao g: 21.948952551302387 
+Funcao h: 26.895973496280018
+Funcao f (g + h): 48.844926047582405 
+----------------------------------------------------------
+interacao 31 
+Cidade visitada: 1 
+Circuito atual: [10, 3, 2, 6] 
+Funcao g: 21.948952551302387 
+Funcao h: 19.974941262628278
+Funcao f (g + h): 41.92389381393066 
+----------------------------------------------------------
+interacao 32 
+Cidade visitada: 4 
+Circuito atual: [10, 3, 2, 6] 
+Funcao g: 21.948952551302387 
+Funcao h: 18.532688848993242
+Funcao f (g + h): 40.48164140029563 
+----------------------------------------------------------
+interacao 33 
+Cidade visitada: 5 
+Circuito atual: [10, 3, 2, 6] 
+Funcao g: 21.948952551302387 
+Funcao h: 26.168528342924102
+Funcao f (g + h): 48.11748089422649 
+----------------------------------------------------------
+interacao 34 
+Cidade visitada: 7 
+Circuito atual: [10, 3, 2, 6] 
+Funcao g: 21.948952551302387 
+Funcao h: 28.589970488423273
+Funcao f (g + h): 50.53892303972566 
+----------------------------------------------------------
+interacao 35 
+Cidade visitada: 8 
+Circuito atual: [10, 3, 2, 6] 
+Funcao g: 21.948952551302387 
+Funcao h: 27.35272858174244
+Funcao f (g + h): 49.30168113304482 
+----------------------------------------------------------
+interacao 36 
+Cidade visitada: 9 
+Circuito atual: [10, 3, 2, 6] 
+Funcao g: 21.948952551302387 
+Funcao h: 29.156866402537357
+Funcao f (g + h): 51.105818953839744 
+----------------------------------------------------------
+interacao 37 
+Cidade visitada: 11 
+Circuito atual: [10, 3, 2, 6] 
+Funcao g: 21.948952551302387 
+Funcao h: 21.358555749434185
+Funcao f (g + h): 43.30750830073657 
+----------------------------------------------------------
+interacao 38 
+Cidade visitada: 0 
+Circuito atual: [10, 3, 2, 6, 4] 
+Funcao g: 30.54488182043903 
+Funcao h: 22.694154640336734
+Funcao f (g + h): 53.239036460775765 
+----------------------------------------------------------
+interacao 39 
+Cidade visitada: 1 
+Circuito atual: [10, 3, 2, 6, 4] 
+Funcao g: 30.54488182043903 
+Funcao h: 16.0056381188193
+Funcao f (g + h): 46.55051993925833 
+----------------------------------------------------------
+interacao 40 
+Cidade visitada: 5 
+Circuito atual: [10, 3, 2, 6, 4] 
+Funcao g: 30.54488182043903 
+Funcao h: 21.966709486980818
+Funcao f (g + h): 52.51159130741985 
+----------------------------------------------------------
+interacao 41 
+Cidade visitada: 7 
+Circuito atual: [10, 3, 2, 6, 4] 
+Funcao g: 30.54488182043903 
+Funcao h: 24.38815163247999
+Funcao f (g + h): 54.93303345291902 
+----------------------------------------------------------
+interacao 42 
+Cidade visitada: 8 
+Circuito atual: [10, 3, 2, 6, 4] 
+Funcao g: 30.54488182043903 
+Funcao h: 16.54774552486532
+Funcao f (g + h): 47.09262734530435 
+----------------------------------------------------------
+interacao 43 
+Cidade visitada: 9 
+Circuito atual: [10, 3, 2, 6, 4] 
+Funcao g: 30.54488182043903 
+Funcao h: 24.95504754659407
+Funcao f (g + h): 55.499929367033104 
+----------------------------------------------------------
+interacao 44 
+Cidade visitada: 11 
+Circuito atual: [10, 3, 2, 6, 4] 
+Funcao g: 30.54488182043903 
+Funcao h: 25.55577883416294
+Funcao f (g + h): 56.10066065460197 
+----------------------------------------------------------
+interacao 45 
+Cidade visitada: 0 
+Circuito atual: [10, 3, 2, 6, 4, 1] 
+Funcao g: 38.39408560171519 
+Funcao h: 18.695865414830863
+Funcao f (g + h): 57.08995101654605 
+----------------------------------------------------------
+interacao 46 
+Cidade visitada: 5 
+Circuito atual: [10, 3, 2, 6, 4, 1] 
+Funcao g: 38.39408560171519 
+Funcao h: 17.968420261474947
+Funcao f (g + h): 56.36250586319014 
+----------------------------------------------------------
+interacao 47 
+Cidade visitada: 7 
+Circuito atual: [10, 3, 2, 6, 4, 1] 
+Funcao g: 38.39408560171519 
+Funcao h: 20.389862406974117
+Funcao f (g + h): 58.78394800868931 
+----------------------------------------------------------
+interacao 48 
+Cidade visitada: 8 
+Circuito atual: [10, 3, 2, 6, 4, 1] 
+Funcao g: 38.39408560171519 
+Funcao h: 13.486146916110764
+Funcao f (g + h): 51.88023251782595 
+----------------------------------------------------------
+interacao 49 
+Cidade visitada: 9 
+Circuito atual: [10, 3, 2, 6, 4, 1] 
+Funcao g: 38.39408560171519 
+Funcao h: 20.956758321088202
+Funcao f (g + h): 59.35084392280339 
+----------------------------------------------------------
+interacao 50 
+Cidade visitada: 11 
+Circuito atual: [10, 3, 2, 6, 4, 1] 
+Funcao g: 38.39408560171519 
+Funcao h: 13.497650878022407
+Funcao f (g + h): 51.891736479737595 
+----------------------------------------------------------
+interacao 51 
+Cidade visitada: 0 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8] 
+Funcao g: 43.33372121580658 
+Funcao h: 17.779897674819352
+Funcao f (g + h): 61.11361889062593 
+----------------------------------------------------------
+interacao 52 
+Cidade visitada: 5 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8] 
+Funcao g: 43.33372121580658 
+Funcao h: 17.052452521463437
+Funcao f (g + h): 60.38617373727001 
+----------------------------------------------------------
+interacao 53 
+Cidade visitada: 7 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8] 
+Funcao g: 43.33372121580658 
+Funcao h: 18.91519102209002
+Funcao f (g + h): 62.2489122378966 
+----------------------------------------------------------
+interacao 54 
+Cidade visitada: 9 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8] 
+Funcao g: 43.33372121580658 
+Funcao h: 19.4820869362041
+Funcao f (g + h): 62.815808152010675 
+----------------------------------------------------------
+interacao 55 
+Cidade visitada: 11 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8] 
+Funcao g: 43.33372121580658 
+Funcao h: 11.83085238038608
+Funcao f (g + h): 55.16457359619265 
+----------------------------------------------------------
+interacao 56 
+Cidade visitada: 0 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8, 11] 
+Funcao g: 47.57636190292586 
+Funcao h: 8.359541388844123
+Funcao f (g + h): 55.93590329176998 
+----------------------------------------------------------
+interacao 57 
+Cidade visitada: 5 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8, 11] 
+Funcao g: 47.57636190292586 
+Funcao h: 7.632096235488207
+Funcao f (g + h): 55.208458138414066 
+----------------------------------------------------------
+interacao 58 
+Cidade visitada: 7 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8, 11] 
+Funcao g: 47.57636190292586 
+Funcao h: 9.99867168207077
+Funcao f (g + h): 57.57503358499663 
+----------------------------------------------------------
+interacao 59 
+Cidade visitada: 9 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8, 11] 
+Funcao g: 47.57636190292586 
+Funcao h: 10.565567596184852
+Funcao f (g + h): 58.14192949911072 
+----------------------------------------------------------
+interacao 60 
+Cidade visitada: 0 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8, 11, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 5.929497087019691
+Funcao f (g + h): 58.530796800505996 
+----------------------------------------------------------
+interacao 61 
+Cidade visitada: 7 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8, 11, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 8.096879824345944
+Funcao f (g + h): 60.698179537832246 
+----------------------------------------------------------
+interacao 62 
+Cidade visitada: 9 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8, 11, 5] 
+Funcao g: 52.601299713486306 
+Funcao h: 5.278375776300244
+Funcao f (g + h): 57.87967548978655 
+----------------------------------------------------------
+interacao 63 
+Cidade visitada: 0 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8, 11, 5, 9] 
+Funcao g: 56.94295838270479 
+Funcao h: 3.7163258411189126
+Funcao f (g + h): 60.659284223823704 
+----------------------------------------------------------
+interacao 64 
+Cidade visitada: 7 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8, 11, 5, 9] 
+Funcao g: 56.94295838270479 
+Funcao h: 5.8551379046662415
+Funcao f (g + h): 62.79809628737103 
+----------------------------------------------------------
+interacao 65 
+Cidade visitada: 7 
+Circuito atual: [10, 3, 2, 6, 4, 1, 8, 11, 5, 9, 0] 
+Funcao g: 62.90450180702034 
+Funcao h: 1.523154621172782
+Funcao f (g + h): 64.42765642819312 
+
+Para a cidade inicial 10, o circuito de menor custo foi: [10, 3, 2, 6, 4, 1, 8, 11, 5, 9, 0, 7]
+----------------------------------------------------------
+
