@@ -98,15 +98,18 @@ def r3(matriz):
 # função referente à restrição 4
 # calcula o valor da penalidade e retorna
 def r4(matriz):
-    penalidade = 0
+    penalidade = 0 #valor da penalidade
+    turnos = 3 # turnos por dia
+    enfermeiros = matriz.enfermeiros # recebe a matriz separada por enfermeiros
     for enf in range(matriz.nenfermeiros):
         for turno in range(matriz.nturnos):
-            enfermeiros = matriz.enfermeiros
-            if enfermeiros[enf][turno] == "1":
+            if enfermeiros[enf][turno] == 1:
                 for turnoExtra in range(matriz.nturnos):
-                    if turno != turnoExtra and enfermeiros[enf][turnoExtra]:
+                    # verifica se dado um turno ocupado, outros turnos no mesmo horário possuem enfermeiros trabalhando
+                    if (turno % turnos) != (turnoExtra % turnos) and enfermeiros[enf][turnoExtra] == 1:
                         penalidade += -1
     return penalidade
+
 # função que calcula o fitness de determinada matriz
 def fitness(matriz, restricoes):
     fit = 0
