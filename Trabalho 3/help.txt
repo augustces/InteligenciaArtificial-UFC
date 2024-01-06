@@ -1,8 +1,9 @@
 Execute o arquivo python trabalho.py, informe o que é necessário via terminal (número de enfermeiros, quais as restrições usadas no algoritmo,
-o tamanho da população, o número de gerações/interações, a taxa de elitismo e a taxa de mutação). Como retorno, o algoritmo gera a melhor
+o tamanho da população, o número de gerações/interações, a taxa de elitismo, taxa de mutação e a variação do crossover). Como retorno, o algoritmo gera a melhor
 cadeia, de maior fitness, e o fitness da melhor cadeia.
 O número de turnos ficou fixo, de valor 21. Quanto às restrições, pode escolher no mínimo uma e no máximo as 4, deve-se informá-las separadas
 por espaço em branco, exemplo: 1 2 3, para usar como composição da função fitness as restrições 1, 2 e 3.
+Há duas variações de crossover: 1 ou 2.
 Foram usadas duas bibliotecas: random e numpy.
 Para instalar a biblioteca numpy no windows:
 1. Abra o prompt de comando em modo administrador e navegue até a pasta que contem python.exe.
