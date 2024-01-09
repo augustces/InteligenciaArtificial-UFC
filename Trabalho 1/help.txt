@@ -1,6 +1,5 @@
 Para executar o código, informe a entrada no arquivo "entrada.txt" no formato especificado no enunciado do trabalho;
-Execute o arquivo "trabalho.py" e verifique a tabela no arquivo "saida.txt". A primeira coluna informa qual 
-interação está sendo rodada, nas seguintes temos os valores de "melhor custo" e qual a "melhor rota".
-O formato de saída da "melhor rota" contém quais os índices de cada cidade informada no arquivo 
-de entrada. A primeira linha contém a categoria de cada linha seguinte, sendo a primeira coluna a interação
-e as colunas seguintes da primeira linha quais as variações da técnica Subida de Encosta.
+Execute o arquivo "trabalho.py" e informe qual operador será utilizado (1 ou 2), se a comparação dos custos entre os
+vizinhos será de forma arbitrária ou não (se sim, digitar 1, senão 0), e se a cidade inicial será arbitrária (se sim, digitar 
+1, senão 0). Como saída, temos o valor de "melhor custo" e qual a "melhor rota". O formato de saída da "melhor rota"
+contém quais os índices de cada cidade informada no arquivo de entrada.
