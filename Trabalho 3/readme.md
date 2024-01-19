@@ -1,5 +1,7 @@
 # Trabalho 3 - Algoritmos Genéticos
 
+Problema: Alocação de enfermeiros em turnos de trabalho
+
 ## Desenvolvedores
 
 - [Augusto César](https://github.com/augustces)
