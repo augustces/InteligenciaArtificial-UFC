@@ -20,4 +20,4 @@ Para cada trabalho, podem existir arquivos extras especificados em seus arquivos
 
 2. [Trabalho 2](https://github.com/augustces/InteligenciaArtificial-UFC/tree/main/Trabalho%202). Nesse trabalho foi aplicado o algoritmo A \* no problema do caixeiro viajante, utilizando a árvore geradora mínima como heurística.
 
-3. [Trabalho 3](https://github.com/augustces/InteligenciaArtificial-UFC/tree/main/Trabalho%203). Nesse Trabalho foi utilizado Algoritmo Genético para um problema de organização de horários para enfermeiros.
+3. [Trabalho 3](https://github.com/augustces/InteligenciaArtificial-UFC/tree/main/Trabalho%203). Nesse Trabalho foi utilizado Algoritmo Genético para um problema de alocação de enfermeiros em turnos de trabalho.
