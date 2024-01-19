@@ -1,0 +1,70 @@
+Cidade inicial: 0 
+Versao da Heuristica: Com a cidade inicial na estimativa 
+Cidades visitadas: 914 
+Cidades geradas: 471
+
+Cidade inicial: 0 
+Versao da Heuristica: Sem a cidade inicial na estimativa 
+Cidades visitadas: 1586 
+Cidades geradas: 950
+
+Cidade inicial: 1 
+Versao da Heuristica: Com a cidade inicial na estimativa 
+Cidades visitadas: 555 
+Cidades geradas: 247
+
+Cidade inicial: 1 
+Versao da Heuristica: Sem a cidade inicial na estimativa 
+Cidades visitadas: 1360 
+Cidades geradas: 786
+
+Cidade inicial: 2 
+Versao da Heuristica: Com a cidade inicial na estimativa 
+Cidades visitadas: 890 
+Cidades geradas: 448
+
+Cidade inicial: 2 
+Versao da Heuristica: Sem a cidade inicial na estimativa 
+Cidades visitadas: 1596 
+Cidades geradas: 959
+
+Cidade inicial: 3 
+Versao da Heuristica: Com a cidade inicial na estimativa 
+Cidades visitadas: 723 
+Cidades geradas: 348
+
+Cidade inicial: 3 
+Versao da Heuristica: Sem a cidade inicial na estimativa 
+Cidades visitadas: 1416 
+Cidades geradas: 832
+
+Cidade inicial: 4 
+Versao da Heuristica: Com a cidade inicial na estimativa 
+Cidades visitadas: 515 
+Cidades geradas: 233
+
+Cidade inicial: 4 
+Versao da Heuristica: Sem a cidade inicial na estimativa 
+Cidades visitadas: 1295 
+Cidades geradas: 745
+
+Cidade inicial: 5 
+Versao da Heuristica: Com a cidade inicial na estimativa 
+Cidades visitadas: 796 
+Cidades geradas: 395
+
+Cidade inicial: 5 
+Versao da Heuristica: Sem a cidade inicial na estimativa 
+Cidades visitadas: 1504 
+Cidades geradas: 891
+
+Cidade inicial: 6 
+Versao da Heuristica: Com a cidade inicial na estimativa 
+Cidades visitadas: 1022 
+Cidades geradas: 532
+
+Cidade inicial: 6 
+Versao da Heuristica: Sem a cidade inicial na estimativa 
+Cidades visitadas: 1649 
+Cidades geradas: 994
+
