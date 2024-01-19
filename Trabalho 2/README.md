@@ -1,4 +1,4 @@
-# Trabalho 3 - Algoritmo A\*
+# Trabalho 2 - Algoritmo A\*
 
 ## Desenvolvedores
 
@@ -11,7 +11,7 @@ O enunciado do problema está no arquivo [Enunciado - A-Star.pdf](https://github
 Os testes foram executados no arquivo [Testes_02.ipynb](https://github.com/augustces/InteligenciaArtificial-UFC/blob/main/Trabalho%202/Teste_02.ipynb). O arquivo contém a aplicação do algoritmo para dois conjuntos de entrada, um com 7 cidades e o outro com 12. Existem duas variações do algortimo, um considerando a cidade de partida no cálculo da função heurística e o outro não a inserindo. Os resultados são mostrados por um dataframe para cada cidade inicial, tendo campos de número de cidades visitadas, cidades geradas, o melhor circuito encontrado para aquela cidade inicial e o custo total.
 Também são calculadas as médias de cidades visitadas e geradas.
 
-O algoritmo está no arquivo [trabalho.py](https://github.com/augustces/InteligenciaArtificial-UFC/blob/main/Trabalho%202/trabalho.py). Após definir as coordenadas das cidades de entrada, o algoritmo é executado verificando a vizinha do nó atual e calculando o custo, comparando-o com os demais nós encontrados. Quando todas as cidades forem percorridas, o melhor circuito, isto é, o de menor custo, é retornado. O custo é calculado com a soma das funções g e h, em que a função g calcula o custo real entre as cidades de um caminho e a função h calcula o custo estimado até o nó objetivo, isto é, o caminho que contém todas as cidades percorridas.
+O algoritmo está no arquivo [trabalho.py](https://github.com/augustces/InteligenciaArtificial-UFC/blob/main/Trabalho%202/trabalho.py). Após definir as coordenadas das cidades de entrada, o algoritmo é executado verificando a vizinha do nó atual e calculando o custo, comparando-o com os demais nós encontrados. Quando todas as cidades forem percorridas, o melhor circuito, isto é, o de menor custo, é retornado. O custo é calculado com a soma das funções g e h, em que a função g calcula o custo real entre as cidades de um caminho e a função h calcula o custo estimado até o nó objetivo, isto é, o caminho que contém todas as cidades percorridas. Como função heurística, foi utilizada a árvore geradora mínima para organizar as arestas de menor custo.
 
 O arquivo de entrada, contendo as cidades que serão consideradas para o cálculo estão no arquivo [entrada.txt](https://github.com/augustces/InteligenciaArtificial-UFC/blob/main/Trabalho%202/entrada.txt).
 
