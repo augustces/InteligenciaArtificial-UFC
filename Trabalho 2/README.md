@@ -1,5 +1,7 @@
 # Trabalho 2 - Algoritmo A\*
 
+Problema: Caixeiro Viajante
+
 ## Desenvolvedores
 
 - [Augusto César](https://github.com/augustces)
